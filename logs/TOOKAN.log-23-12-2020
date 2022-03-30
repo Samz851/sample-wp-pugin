@@ -1,0 +1,16 @@
+2020-12-15 03:17:08--- INFO --- "string" Type: Add Task Response--TYPE
+2020-12-15 03:17:08--- INFO --- "{" Type: Add Task Response
+2020-12-15 03:17:52--- INFO --- "string" Type: Add Task Response--TYPE
+2020-12-15 03:17:52--- INFO --- "{" Type: Add Task Response
+2020-12-16 00:50:41--- INFO --- "{\"message\":\"\\\"phone\\\" is not allowed to be empty\",\"status\":100,\"data\":{}}" Type: Adding Customer
+2020-12-16 00:50:41--- TYPE --- string Type: Adding Customer
+2020-12-16 00:56:04--- INFO --- "{\"message\":\"\\\"phone\\\" is not allowed to be empty\",\"status\":100,\"data\":{}}" Type: Adding Customer
+2020-12-16 00:56:04--- TYPE --- string Type: Adding Customer
+2020-12-16 01:03:45--- INFO --- "{\"message\":\"Successful\",\"status\":200,\"data\":{\"customer_id\":31358318}}" Type: Adding Customer
+2020-12-16 01:03:45--- TYPE --- string Type: Adding Customer
+2020-12-16 01:03:46--- INFO --- {"message":"Successful","status":200,"data":[]} Type: Agent by promixity
+2020-12-16 01:03:46--- INFO --- null Type: Type of data
+2020-12-16 01:34:43--- INFO --- "string" Type: Add Task Response--TYPE
+2020-12-16 01:34:43--- INFO --- "{" Type: Add Task Response
+2020-12-16 02:19:26--- INFO --- "string" Type: Add Task Response--TYPE
+2020-12-16 02:19:26--- INFO --- "{" Type: Add Task Response

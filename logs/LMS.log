@@ -1,0 +1,16 @@
+2021-03-03 02:33:48--- INFO --- {"username":"learndrivetest","password":"xd9b75UvBgtD","firstname":"Barrie","lastname":"Student","email":"learndrivetest@gmail.com","phone1":"4169638585"} Type: process_user
+2021-03-03 02:33:52--- INFO --- [{"id":72,"username":"learndrivetest"}] Type: process_user-INIT
+2021-03-03 02:33:52--- INFO --- {"users":[{"userid":72,"companyid":3,"result":true,"message":""}]} Type: process_user-CREATE
+2021-03-03 02:33:52--- INFO --- true Type: process_user-CREATE
+2021-03-03 02:33:52--- ERROR --- {"username":"learndrivetest","password":"xd9b75UvBgtD","firstname":"Barrie","lastname":"Student","email":"learndrivetest@gmail.com","phone1":"4169638585"} Type: email user
+2021-03-03 02:40:36--- INFO --- {"username":"learndrivetest","password":"gITY95JHJv#L","firstname":"Barrie","lastname":"Student","email":"learndrivetest@gmail.com","phone1":"4169638582"} Type: process_user
+2021-03-03 02:40:39--- INFO --- [{"id":73,"username":"learndrivetest"}] Type: process_user-INIT
+2021-03-03 02:40:39--- INFO --- {"users":[{"userid":73,"companyid":3,"result":true,"message":""}]} Type: process_user-CREATE
+2021-03-03 02:40:39--- INFO --- true Type: process_user-CREATE
+2021-03-03 02:40:39--- ERROR --- {"username":"learndrivetest","password":"gITY95JHJv#L","firstname":"Barrie","lastname":"Student","email":"learndrivetest@gmail.com","phone1":"4169638582"} Type: email user
+2021-03-03 03:06:04--- INFO --- {"username":"learndrivetest","password":"^y)kBP1cx7wz","firstname":"Barrie","lastname":"Student","email":"learndrivetest@gmail.com","phone1":"4169638583"} Type: process_user
+2021-03-03 03:06:07--- INFO --- [{"id":74,"username":"learndrivetest"}] Type: process_user-INIT
+2021-03-03 03:06:07--- INFO --- {"users":[{"userid":74,"companyid":3,"result":true,"message":""}]} Type: process_user-CREATE
+2021-03-03 03:06:07--- INFO --- true Type: process_user-CREATE
+2021-03-03 03:06:07--- ERROR --- {"username":"learndrivetest","password":"^y)kBP1cx7wz","firstname":"Barrie","lastname":"Student","email":"learndrivetest@gmail.com","phone1":"4169638583"} Type: email user
+2021-03-03 03:12:28--- INFO --- {"grades":[{"courseid":5,"grade":"-","rawgrade":null}],"warnings":[]} Type: get_student_progress

@@ -1,0 +1,156 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+
+div.adminpage {
+    padding: 1.25rem;
+}
+div.ad-api-inputs {
+    padding: 10px;
+    background: white;
+    box-shadow: 0em 0em 0.75em #ddd;
+}
+div.adminpage input:not([type=submit]) {
+    padding: 2px 5px;
+    width: 90%;
+    border-radius: 0px;
+    border-color: #eee;
+}
+
+.ad-student-details {
+    display: none;
+    position: absolute;
+    background: #00000036;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    margin-left: -20px;
+    height: 100%;
+}
+
+#agent_data > *{
+    margin: 0px 10px;
+}
+span.label {
+    color: black;
+}
+
+.ad-student-details.show {
+    display: block;
+}
+
+#student-card {
+    background: white;
+    height: auto;
+    width: 500px;
+    margin: 5% auto;
+    padding: 25px;
+    font-size: 2rem;
+    position: relative;
+}
+
+div#student-card a#close-student-card {
+    position: absolute;
+    top: 0;
+    right: 5px;
+    color: #b10404;
+}
+
+.student-card-content > div {
+    margin: 15px;
+    font-weight: 500;
+}
+
+div#student-card .add-bookingdate {
+    display: none;
+    -webkit-transition: all .3s ease;
+    -moz-transition: all .3s ease;
+    transition: all .3s ease;
+}
+
+.add-booking {
+    display: block;
+    /* width: 100px; */
+    right: 10px;
+    text-align: center;
+    cursor: pointer;
+    border: 1px solid transparent;
+    -webkit-transition: all .3s ease;
+    -moz-transition: all .3s ease;
+    transition: all .3s ease;
+  }
+  .add-booking:hover {
+    background: #b3b1b1;
+    border: 1px solid #949494;
+  }
+
+  .add-booking i {
+    margin: 0 10px;
+    font-size: 2rem;
+    color: #999 !important;
+    margin-top: 3px;
+  }
+  .booking-confirmation {
+    display: inline-block;
+    float: right;
+    padding: 5px;
+    border: 2px solid transparent;
+    font-size: 1.5rem;
+    margin: 5px;
+}
+
+.booking-confirmation.success{
+    border-color: rgb(1, 68, 1);
+}
+
+.booking-confirmation.fail{
+    border-color: #6b0101;
+}
+
+.add-booking i:hover {
+color: #f6f7fb !important;
+}
+
+div.instructor-bookings {
+    border: 1px solid transparent;
+    padding: 0px 5px;
+    height: 0px;
+    overflow: hidden;
+}
+
+div.instructor-bookings.show {
+    border-color: #ddd;
+    height: auto;
+}
+
+div.instructor-bookings li {
+    border-bottom: 1px solid #ddd;
+}
+.dashboard-container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: flex-start
+}
+.dashboard-container > div {
+    background: #419DE6;
+    width: 40%;
+    min-height: 200px;
+    display: inline-block;
+    margin: 10px;
+}
+.dashboard-container > div > div{
+    display: block;
+    padding: 15px;
+    color: white;
+    font-size: 1rem;
+    font-weight: 600;
+}
+div.dashboard-container div.card-label {
+    float: left;
+}
+div.dashboard-container div.card-content {
+    float: right;
+}

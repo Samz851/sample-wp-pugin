@@ -1,0 +1,239 @@
+2020-12-28 17:29:39--- INFO --- {"grades":[{"courseid":5,"grade":"-","rawgrade":null}],"warnings":[]} Type: get_student_progress
+2020-12-28 17:30:19--- INFO --- {"grades":[{"courseid":5,"grade":"-","rawgrade":null}],"warnings":[]} Type: get_student_progress
+2020-12-28 18:00:30--- INFO --- {"username":"learndrivetest","password":"I7%pg$NB3k7V","firstname":"Marco","lastname":"Polo","email":"learndrivetest@gmail.com","phone1":"4168450283"} Type: process_user
+2020-12-28 18:00:30--- INFO --- [{"id":42,"username":"learndrivetest"}] Type: process_user-INIT
+2020-12-28 18:00:30--- INFO --- {"users":[{"userid":42,"companyid":3,"result":true,"message":""}]} Type: process_user-CREATE
+2020-12-28 18:00:30--- INFO --- true Type: process_user-CREATE
+2020-12-28 18:00:31--- ERROR --- {"username":"learndrivetest","password":"I7%pg$NB3k7V","firstname":"Marco","lastname":"Polo","email":"learndrivetest@gmail.com","phone1":"4168450283","isemailed":true,"lmsid":42} Type: email user
+2020-12-28 18:17:53--- INFO --- {"username":"learndrivetest","password":"yi9CKWaWnAE4","firstname":"Marcus","lastname":"Anthony","email":"learndrivetest@gmail.com","phone1":"4168450283"} Type: process_user
+2020-12-28 18:17:53--- ERROR --- {"exception":"invalid_parameter_exception","errorcode":"invalidparameter","message":"Invalid parameter value detected","debuginfo":"Username already exists: learndrivetest"} Type: Initiate_user
+2020-12-28 18:17:53--- ERROR --- "https:\/\/lms.learndrive.ca\/webservice\/rest\/server.php?wstoken=6d86a660a4865346da2eda9c21cf2cf9&moodlewsrestformat=json&wsfunction=core_user_create_users&users[0][username]=learndrivetest&users[0][auth]=manual&users[0][password]=yi9CKWaWnAE4&users[0][firstname]=Marcus&users[0][lastname]=Anthony&users[0][email]=learndrivetest@gmail.com&users[0][phone1]=4168450283" Type: Initiate_user-URL
+2020-12-28 18:17:53--- ERROR --- false Type: process_user-INIT
+2020-12-28 18:26:50--- INFO --- {"username":"learndrivetest","password":"HdOcN*47xHl9","firstname":"Marcus","lastname":"Anthony","email":"learndrivetest@gmail.com","phone1":"4168450281"} Type: process_user
+2020-12-28 18:26:50--- INFO --- [{"id":43,"username":"learndrivetest"}] Type: process_user-INIT
+2020-12-28 18:26:50--- INFO --- {"users":[{"userid":43,"companyid":3,"result":true,"message":""}]} Type: process_user-CREATE
+2020-12-28 18:26:51--- INFO --- true Type: process_user-CREATE
+2020-12-28 18:26:51--- ERROR --- {"username":"learndrivetest","password":"HdOcN*47xHl9","firstname":"Marcus","lastname":"Anthony","email":"learndrivetest@gmail.com","phone1":"4168450281","isemailed":true,"lmsid":43} Type: email user
+2020-12-28 18:32:03--- INFO --- {"username":"satyen_rajendra","password":"GES(%&PPySws","firstname":"Dec28Test_SR","lastname":"Test","email":"satyen.rajendra@gmail.com","phone1":"4167278997"} Type: process_user
+2020-12-28 18:32:04--- ERROR --- {"exception":"invalid_parameter_exception","errorcode":"invalidparameter","message":"Invalid parameter value detected","debuginfo":"Username already exists: satyen_rajendra"} Type: Initiate_user
+2020-12-28 18:32:04--- ERROR --- "https:\/\/lms.learndrive.ca\/webservice\/rest\/server.php?wstoken=6d86a660a4865346da2eda9c21cf2cf9&moodlewsrestformat=json&wsfunction=core_user_create_users&users[0][username]=satyen_rajendra&users[0][auth]=manual&users[0][password]=GES(%&PPySws&users[0][firstname]=Dec28Test_SR&users[0][lastname]=Test&users[0][email]=satyen.rajendra@gmail.com&users[0][phone1]=4167278997" Type: Initiate_user-URL
+2020-12-28 18:32:04--- ERROR --- false Type: process_user-INIT
+2021-01-03 22:32:47--- INFO --- {"grades":[{"courseid":5,"grade":"-","rawgrade":null}],"warnings":[]} Type: get_student_progress
+2021-01-04 02:21:44--- INFO --- {"username":"projects","password":"TdRqjKF3f2ai","firstname":"Darvish","lastname":"Shawshank","email":"projects@samiscoding.com","phone1":"8529638502"} Type: process_user
+2021-01-04 02:21:44--- INFO --- [{"id":44,"username":"projects"}] Type: process_user-INIT
+2021-01-04 02:21:44--- INFO --- {"users":[{"userid":44,"companyid":3,"result":true,"message":""}]} Type: process_user-CREATE
+2021-01-04 02:21:44--- INFO --- true Type: process_user-CREATE
+2021-01-04 02:21:45--- ERROR --- {"username":"projects","password":"TdRqjKF3f2ai","firstname":"Darvish","lastname":"Shawshank","email":"projects@samiscoding.com","phone1":"8529638502","isemailed":true,"lmsid":44} Type: email user
+2021-01-05 01:36:41--- INFO --- {"grades":[{"courseid":5,"grade":"-","rawgrade":null}],"warnings":[]} Type: get_student_progress
+2021-01-05 01:42:16--- INFO --- {"grades":[{"courseid":5,"grade":"-","rawgrade":null}],"warnings":[]} Type: get_student_progress
+2021-01-05 01:49:39--- INFO --- {"grades":[{"courseid":5,"grade":"-","rawgrade":null}],"warnings":[]} Type: get_student_progress
+2021-01-05 01:50:47--- INFO --- {"grades":[{"courseid":5,"grade":"-","rawgrade":null}],"warnings":[]} Type: get_student_progress
+2021-01-05 03:32:52--- INFO --- {"grades":[{"courseid":5,"grade":"-","rawgrade":null}],"warnings":[]} Type: get_student_progress
+2021-01-05 03:33:10--- INFO --- {"grades":[{"courseid":5,"grade":"-","rawgrade":null}],"warnings":[]} Type: get_student_progress
+2021-01-05 03:34:39--- INFO --- {"grades":[{"courseid":5,"grade":"-","rawgrade":null}],"warnings":[]} Type: get_student_progress
+2021-01-05 03:36:39--- INFO --- {"grades":[{"courseid":5,"grade":"-","rawgrade":null}],"warnings":[]} Type: get_student_progress
+2021-01-05 03:44:38--- INFO --- {"grades":[{"courseid":5,"grade":"-","rawgrade":null}],"warnings":[]} Type: get_student_progress
+2021-01-05 18:42:04--- INFO --- {"username":"satyen_rajendra","password":"wM794@!H)rRi","firstname":"Dec28Test_SR","lastname":"Test","email":"satyen.rajendra@gmail.com","phone1":"4167278997"} Type: process_user
+2021-01-05 18:42:04--- INFO --- [{"id":45,"username":"satyen_rajendra"}] Type: process_user-INIT
+2021-01-05 18:42:04--- INFO --- {"users":[{"userid":45,"companyid":3,"result":true,"message":""}]} Type: process_user-CREATE
+2021-01-05 18:42:04--- INFO --- true Type: process_user-CREATE
+2021-01-05 18:42:05--- ERROR --- {"username":"satyen_rajendra","password":"wM794@!H)rRi","firstname":"Dec28Test_SR","lastname":"Test","email":"satyen.rajendra@gmail.com","phone1":"4167278997","isemailed":true,"lmsid":45} Type: email user
+2021-01-06 01:42:51--- INFO --- {"grades":[{"courseid":5,"grade":"-","rawgrade":null}],"warnings":[]} Type: get_student_progress
+2021-01-06 01:43:36--- INFO --- {"grades":[{"courseid":5,"grade":"-","rawgrade":null}],"warnings":[]} Type: get_student_progress
+2021-01-06 01:48:41--- INFO --- {"grades":[{"courseid":5,"grade":"-","rawgrade":null}],"warnings":[]} Type: get_student_progress
+2021-01-06 01:49:41--- INFO --- {"grades":[{"courseid":5,"grade":"-","rawgrade":null}],"warnings":[]} Type: get_student_progress
+2021-01-06 01:52:07--- INFO --- {"grades":[{"courseid":5,"grade":"-","rawgrade":null}],"warnings":[]} Type: get_student_progress
+2021-01-06 23:46:17--- INFO --- {"grades":[{"courseid":5,"grade":"-","rawgrade":null}],"warnings":[]} Type: get_student_progress
+2021-01-07 01:30:27--- INFO --- null Type: 259
+2021-01-07 01:33:03--- INFO --- null Type: 259
+2021-01-07 01:37:17--- INFO --- {} Type: 259
+2021-01-07 01:38:58--- INFO --- "https:\/\/lms.learndrive.ca\/webservice\/rest\/server.php?wstoken=6d86a660a4865346da2eda9c21cf2cf9&moodlewsrestformat=json&wsfunction=core_user_update_users&users[0][id]=43&users[0][firstname]=Mark&users[0][lastname]=Anthony&users[0][email]=learndrivetest@gmail.com&users[0][city]=Oakville&users[0][country]=Canada&users[0][phone1]=4168450281&users[0][address]=271 Vilma Dr" Type: 259
+2021-01-07 01:39:30--- INFO --- "https:\/\/lms.learndrive.ca\/webservice\/rest\/server.php?wstoken=6d86a660a4865346da2eda9c21cf2cf9&moodlewsrestformat=json&wsfunction=core_user_update_users&users[0][id]=43&users[0][firstname]=Mark&users[0][lastname]=Anthony&users[0][email]=learndrivetest@gmail.com&users[0][city]=Oakville&users[0][country]=Canada&users[0][phone1]=4168450281&users[0][address]=271 Vilma Dr" Type: 259
+2021-01-07 01:44:03--- INFO --- null Type: update_user
+2021-01-07 01:45:05--- INFO --- null Type: update_user
+2021-01-07 01:46:21--- INFO --- null Type: update_user
+2021-01-08 01:55:35--- INFO --- {"grades":[{"courseid":5,"grade":"-","rawgrade":null}],"warnings":[]} Type: get_student_progress
+2021-01-08 01:55:56--- INFO --- {"grades":[{"courseid":5,"grade":"-","rawgrade":null}],"warnings":[]} Type: get_student_progress
+2021-01-09 17:24:46--- INFO --- {"grades":[],"warnings":[]} Type: get_student_progress
+2021-01-09 17:45:12--- INFO --- {"grades":[],"warnings":[]} Type: get_student_progress
+2021-01-09 18:01:16--- INFO --- {"grades":[],"warnings":[]} Type: get_student_progress
+2021-01-09 18:57:05--- INFO --- {"username":"learndrivetest","password":"J*MmzDK#F(gE","firstname":"Kamala2","lastname":"Harris","email":"learndrivetest@gmail.com","phone1":"14168321997"} Type: process_user
+2021-01-09 18:57:06--- INFO --- [{"id":46,"username":"learndrivetest"}] Type: process_user-INIT
+2021-01-09 18:57:06--- INFO --- {"users":[{"userid":46,"companyid":3,"result":true,"message":""}]} Type: process_user-CREATE
+2021-01-09 18:57:06--- INFO --- true Type: process_user-CREATE
+2021-01-09 18:57:06--- ERROR --- {"username":"learndrivetest","password":"J*MmzDK#F(gE","firstname":"Kamala2","lastname":"Harris","email":"learndrivetest@gmail.com","phone1":"14168321997"} Type: email user
+2021-01-09 18:59:51--- INFO --- {"grades":[],"warnings":[]} Type: get_student_progress
+2021-01-09 19:05:12--- INFO --- {"username":"learndrivetest","password":"BAF9O4KSC*xG","firstname":"Kamala3","lastname":"Harris","email":"learndrivetest@gmail.com","phone1":"4168321997"} Type: process_user
+2021-01-09 19:05:12--- INFO --- [{"id":47,"username":"learndrivetest"}] Type: process_user-INIT
+2021-01-09 19:05:12--- INFO --- {"users":[{"userid":47,"companyid":3,"result":true,"message":""}]} Type: process_user-CREATE
+2021-01-09 19:05:13--- INFO --- true Type: process_user-CREATE
+2021-01-09 19:05:13--- ERROR --- {"username":"learndrivetest","password":"BAF9O4KSC*xG","firstname":"Kamala3","lastname":"Harris","email":"learndrivetest@gmail.com","phone1":"4168321997"} Type: email user
+2021-01-09 19:11:32--- INFO --- {"username":"learndrivetest","password":"qXR3MR03E@6N","firstname":"Kamala4","lastname":"Harris","email":"learndrivetest@gmail.com","phone1":"4168585222"} Type: process_user
+2021-01-09 19:11:32--- INFO --- [{"id":48,"username":"learndrivetest"}] Type: process_user-INIT
+2021-01-09 19:11:32--- INFO --- {"users":[{"userid":48,"companyid":3,"result":true,"message":""}]} Type: process_user-CREATE
+2021-01-09 19:11:33--- INFO --- true Type: process_user-CREATE
+2021-01-09 19:11:33--- ERROR --- {"username":"learndrivetest","password":"qXR3MR03E@6N","firstname":"Kamala4","lastname":"Harris","email":"learndrivetest@gmail.com","phone1":"4168585222"} Type: email user
+2021-01-09 19:13:18--- INFO --- {"grades":[],"warnings":[]} Type: get_student_progress
+2021-01-09 19:19:09--- INFO --- {"grades":[],"warnings":[]} Type: get_student_progress
+2021-01-09 19:29:32--- INFO --- {"grades":[],"warnings":[]} Type: get_student_progress
+2021-01-09 19:29:39--- INFO --- {"grades":[],"warnings":[]} Type: get_student_progress
+2021-01-09 19:30:19--- INFO --- {"grades":[],"warnings":[]} Type: get_student_progress
+2021-01-10 22:48:30--- INFO --- {"username":"learndrivetest","password":"CASVGe@0GuID","firstname":"Shadow","lastname":"Eyes","email":"learndrivetest@gmail.com","phone1":"7418523636"} Type: process_user
+2021-01-10 22:48:31--- INFO --- [{"id":49,"username":"learndrivetest"}] Type: process_user-INIT
+2021-01-10 22:48:31--- INFO --- {"users":[{"userid":49,"companyid":3,"result":true,"message":""}]} Type: process_user-CREATE
+2021-01-10 22:48:31--- INFO --- true Type: process_user-CREATE
+2021-01-10 22:48:31--- ERROR --- {"username":"learndrivetest","password":"CASVGe@0GuID","firstname":"Shadow","lastname":"Eyes","email":"learndrivetest@gmail.com","phone1":"7418523636"} Type: email user
+2021-01-10 23:06:41--- INFO --- {"username":"learndrivetest","password":"drGoT4O9d(wj","firstname":"Shadow","lastname":"Eyes","email":"learndrivetest@gmail.com","phone1":"7418523631"} Type: process_user
+2021-01-10 23:06:41--- INFO --- [{"id":50,"username":"learndrivetest"}] Type: process_user-INIT
+2021-01-10 23:06:41--- INFO --- {"users":[{"userid":50,"companyid":3,"result":true,"message":""}]} Type: process_user-CREATE
+2021-01-10 23:06:41--- INFO --- true Type: process_user-CREATE
+2021-01-10 23:06:41--- ERROR --- {"username":"learndrivetest","password":"drGoT4O9d(wj","firstname":"Shadow","lastname":"Eyes","email":"learndrivetest@gmail.com","phone1":"7418523631"} Type: email user
+2021-01-10 23:28:26--- INFO --- {"grades":[{"courseid":5,"grade":"-","rawgrade":null}],"warnings":[]} Type: get_student_progress
+2021-01-10 23:33:15--- INFO --- {"grades":[{"courseid":5,"grade":"-","rawgrade":null}],"warnings":[]} Type: get_student_progress
+2021-01-10 23:36:39--- INFO --- {"grades":[{"courseid":5,"grade":"-","rawgrade":null}],"warnings":[]} Type: get_student_progress
+2021-01-10 23:37:22--- INFO --- {"grades":[{"courseid":5,"grade":"-","rawgrade":null}],"warnings":[]} Type: get_student_progress
+2021-01-10 23:45:14--- INFO --- {"grades":[{"courseid":5,"grade":"-","rawgrade":null}],"warnings":[]} Type: get_student_progress
+2021-01-10 23:46:20--- INFO --- {"grades":[{"courseid":5,"grade":"-","rawgrade":null}],"warnings":[]} Type: get_student_progress
+2021-01-10 23:46:29--- INFO --- {"grades":[{"courseid":5,"grade":"-","rawgrade":null}],"warnings":[]} Type: get_student_progress
+2021-01-10 23:48:03--- INFO --- {"grades":[{"courseid":5,"grade":"-","rawgrade":null}],"warnings":[]} Type: get_student_progress
+2021-01-10 23:50:23--- INFO --- {"grades":[{"courseid":5,"grade":"-","rawgrade":null}],"warnings":[]} Type: get_student_progress
+2021-01-11 00:05:52--- INFO --- {"grades":[{"courseid":5,"grade":"-","rawgrade":null}],"warnings":[]} Type: get_student_progress
+2021-01-11 00:16:30--- INFO --- {"grades":[{"courseid":5,"grade":"-","rawgrade":null}],"warnings":[]} Type: get_student_progress
+2021-01-11 00:40:21--- INFO --- {"grades":[{"courseid":5,"grade":"-","rawgrade":null}],"warnings":[]} Type: get_student_progress
+2021-01-11 00:40:40--- INFO --- {"grades":[{"courseid":5,"grade":"-","rawgrade":null}],"warnings":[]} Type: get_student_progress
+2021-01-11 00:42:23--- INFO --- {"grades":[{"courseid":5,"grade":"-","rawgrade":null}],"warnings":[]} Type: get_student_progress
+2021-01-11 00:45:44--- INFO --- {"grades":[{"courseid":5,"grade":"-","rawgrade":null}],"warnings":[]} Type: get_student_progress
+2021-01-11 00:47:47--- INFO --- {"grades":[{"courseid":5,"grade":"-","rawgrade":null}],"warnings":[]} Type: get_student_progress
+2021-01-11 00:48:36--- INFO --- {"grades":[{"courseid":5,"grade":"-","rawgrade":null}],"warnings":[]} Type: get_student_progress
+2021-01-11 00:49:11--- INFO --- {"grades":[{"courseid":5,"grade":"-","rawgrade":null}],"warnings":[]} Type: get_student_progress
+2021-01-11 00:49:19--- INFO --- {"grades":[{"courseid":5,"grade":"-","rawgrade":null}],"warnings":[]} Type: get_student_progress
+2021-01-11 01:29:51--- ERROR --- {"exception":"moodle_exception","errorcode":"userdeleted","message":"error\/userdeleted"} Type: get_student_progress
+2021-01-11 02:09:28--- INFO --- {"username":"learndrivetest","password":"6%XG3#dCZy89","firstname":"Shadow","lastname":"Eyes","email":"learndrivetest@gmail.com","phone1":"7418523635"} Type: process_user
+2021-01-11 02:09:30--- INFO --- [{"id":51,"username":"learndrivetest"}] Type: process_user-INIT
+2021-01-11 02:09:31--- INFO --- {"users":[{"userid":51,"companyid":3,"result":true,"message":""}]} Type: process_user-CREATE
+2021-01-11 02:09:33--- INFO --- true Type: process_user-CREATE
+2021-01-11 02:09:33--- ERROR --- {"username":"learndrivetest","password":"6%XG3#dCZy89","firstname":"Shadow","lastname":"Eyes","email":"learndrivetest@gmail.com","phone1":"7418523635"} Type: email user
+2021-01-11 02:16:47--- INFO --- {"username":"learndrivetest","password":"Re7l@V5QRn9U","firstname":"Shadow","lastname":"Eyes","email":"learndrivetest@gmail.com","phone1":"7418523637"} Type: process_user
+2021-01-11 02:16:48--- INFO --- [{"id":52,"username":"learndrivetest"}] Type: process_user-INIT
+2021-01-11 02:16:49--- INFO --- {"users":[{"userid":52,"companyid":3,"result":true,"message":""}]} Type: process_user-CREATE
+2021-01-11 02:16:51--- INFO --- true Type: process_user-CREATE
+2021-01-11 02:16:51--- ERROR --- {"username":"learndrivetest","password":"Re7l@V5QRn9U","firstname":"Shadow","lastname":"Eyes","email":"learndrivetest@gmail.com","phone1":"7418523637"} Type: email user
+2021-01-11 03:07:26--- INFO --- {"username":"learndrivetest","password":"8#XBbFRP%WlP","firstname":"Shadow","lastname":"Eyes","email":"learndrivetest@gmail.com","phone1":"7418523638"} Type: process_user
+2021-01-11 03:07:26--- INFO --- [{"id":53,"username":"learndrivetest"}] Type: process_user-INIT
+2021-01-11 03:07:27--- INFO --- {"users":[{"userid":53,"companyid":3,"result":true,"message":""}]} Type: process_user-CREATE
+2021-01-11 03:07:27--- INFO --- true Type: process_user-CREATE
+2021-01-11 03:07:27--- ERROR --- {"username":"learndrivetest","password":"8#XBbFRP%WlP","firstname":"Shadow","lastname":"Eyes","email":"learndrivetest@gmail.com","phone1":"7418523638"} Type: email user
+2021-01-11 03:17:45--- INFO --- {"username":"learndrivetest","password":"!P@oKDcV#Him","firstname":"Shadow","lastname":"Eyes","email":"learndrivetest@gmail.com","phone1":"7418523639"} Type: process_user
+2021-01-11 03:17:46--- INFO --- [{"id":54,"username":"learndrivetest"}] Type: process_user-INIT
+2021-01-11 03:17:46--- INFO --- {"users":[{"userid":54,"companyid":3,"result":true,"message":""}]} Type: process_user-CREATE
+2021-01-11 03:17:47--- INFO --- true Type: process_user-CREATE
+2021-01-11 03:17:47--- ERROR --- {"username":"learndrivetest","password":"!P@oKDcV#Him","firstname":"Shadow","lastname":"Eyes","email":"learndrivetest@gmail.com","phone1":"7418523639"} Type: email user
+2021-01-12 00:54:44--- INFO --- {"grades":[],"warnings":[]} Type: get_student_progress
+2021-01-12 01:40:34--- INFO --- {"grades":[],"warnings":[]} Type: get_student_progress
+2021-01-12 01:45:22--- INFO --- {"username":"meborap671","password":"5m$KQACUaxep","firstname":"Joe","lastname":"Biden","email":"meborap671@sofiarae.com","phone1":"4162223336"} Type: process_user
+2021-01-12 01:45:22--- INFO --- [{"id":55,"username":"meborap671"}] Type: process_user-INIT
+2021-01-12 01:45:23--- INFO --- {"users":[{"userid":55,"companyid":3,"result":true,"message":""}]} Type: process_user-CREATE
+2021-01-12 01:45:23--- INFO --- true Type: process_user-CREATE
+2021-01-12 01:45:23--- ERROR --- {"username":"meborap671","password":"5m$KQACUaxep","firstname":"Joe","lastname":"Biden","email":"meborap671@sofiarae.com","phone1":"4162223336"} Type: email user
+2021-01-12 01:56:35--- INFO --- {"username":"jeviwo2809","password":"x*v^b&EGM%Xd","firstname":"Mike","lastname":"Spence","email":"jeviwo2809@majorsww.com","phone1":"4155656571"} Type: process_user
+2021-01-12 01:56:36--- INFO --- [{"id":56,"username":"jeviwo2809"}] Type: process_user-INIT
+2021-01-12 01:56:36--- INFO --- {"users":[{"userid":56,"companyid":3,"result":true,"message":""}]} Type: process_user-CREATE
+2021-01-12 01:56:36--- INFO --- true Type: process_user-CREATE
+2021-01-12 01:56:36--- ERROR --- {"username":"jeviwo2809","password":"x*v^b&EGM%Xd","firstname":"Mike","lastname":"Spence","email":"jeviwo2809@majorsww.com","phone1":"4155656571"} Type: email user
+2021-01-12 02:02:20--- INFO --- {"username":"medar56495","password":"4gsD6xWbIYgq","firstname":"jim","lastname":"carrey","email":"medar56495@maksap.com","phone1":"415297788"} Type: process_user
+2021-01-12 02:02:20--- INFO --- [{"id":57,"username":"medar56495"}] Type: process_user-INIT
+2021-01-12 02:02:20--- INFO --- {"users":[{"userid":57,"companyid":3,"result":true,"message":""}]} Type: process_user-CREATE
+2021-01-12 02:02:20--- INFO --- true Type: process_user-CREATE
+2021-01-12 02:02:20--- ERROR --- {"username":"medar56495","password":"4gsD6xWbIYgq","firstname":"jim","lastname":"carrey","email":"medar56495@maksap.com","phone1":"415297788"} Type: email user
+2021-01-12 02:13:07--- INFO --- {"grades":[],"warnings":[]} Type: get_student_progress
+2021-01-12 02:14:28--- INFO --- {"grades":[{"courseid":5,"grade":"-","rawgrade":null}],"warnings":[]} Type: get_student_progress
+2021-01-12 02:15:11--- INFO --- {"grades":[{"courseid":5,"grade":"-","rawgrade":null}],"warnings":[]} Type: get_student_progress
+2021-01-12 02:15:31--- INFO --- {"grades":[{"courseid":5,"grade":"-","rawgrade":null}],"warnings":[]} Type: get_student_progress
+2021-01-12 15:10:09--- INFO --- {"username":"nomam18574","password":"#LjjrbYQdUFy","firstname":"ted","lastname":"rogers","email":"nomam18574@izzum.com","phone1":"4168321997"} Type: process_user
+2021-01-12 15:10:09--- INFO --- [{"id":58,"username":"nomam18574"}] Type: process_user-INIT
+2021-01-12 15:10:09--- INFO --- {"users":[{"userid":58,"companyid":3,"result":true,"message":""}]} Type: process_user-CREATE
+2021-01-12 15:10:09--- INFO --- true Type: process_user-CREATE
+2021-01-12 15:10:09--- ERROR --- {"username":"nomam18574","password":"#LjjrbYQdUFy","firstname":"ted","lastname":"rogers","email":"nomam18574@izzum.com","phone1":"4168321997"} Type: email user
+2021-01-13 01:02:47--- INFO --- {"username":"sigeh28496","password":"eOZ8v3AnPjSY","firstname":"Harry","lastname":"Singh","email":"sigeh28496@izzum.com","phone1":"4168321997"} Type: process_user
+2021-01-13 01:02:47--- INFO --- [{"id":59,"username":"sigeh28496"}] Type: process_user-INIT
+2021-01-13 01:02:47--- INFO --- {"users":[{"userid":59,"companyid":3,"result":true,"message":""}]} Type: process_user-CREATE
+2021-01-13 01:02:48--- INFO --- true Type: process_user-CREATE
+2021-01-13 01:02:48--- ERROR --- {"username":"sigeh28496","password":"eOZ8v3AnPjSY","firstname":"Harry","lastname":"Singh","email":"sigeh28496@izzum.com","phone1":"4168321997"} Type: email user
+2021-01-13 01:18:22--- INFO --- {"username":"bovav80224","password":"*1B5%dDZVOQw","firstname":"absolute","lastname":"cabinets","email":"bovav80224@maksap.com","phone1":"14168321997"} Type: process_user
+2021-01-13 01:18:23--- INFO --- [{"id":60,"username":"bovav80224"}] Type: process_user-INIT
+2021-01-13 01:18:23--- INFO --- {"users":[{"userid":60,"companyid":3,"result":true,"message":""}]} Type: process_user-CREATE
+2021-01-13 01:18:23--- INFO --- true Type: process_user-CREATE
+2021-01-13 01:18:23--- ERROR --- {"username":"bovav80224","password":"*1B5%dDZVOQw","firstname":"absolute","lastname":"cabinets","email":"bovav80224@maksap.com","phone1":"14168321997"} Type: email user
+2021-01-13 01:24:03--- INFO --- {"grades":[{"courseid":5,"grade":"-","rawgrade":null}],"warnings":[]} Type: get_student_progress
+2021-01-13 01:24:24--- INFO --- {"grades":[{"courseid":5,"grade":"-","rawgrade":null}],"warnings":[]} Type: get_student_progress
+2021-01-13 01:24:39--- INFO --- {"grades":[{"courseid":5,"grade":"-","rawgrade":null}],"warnings":[]} Type: get_student_progress
+2021-01-13 01:27:47--- INFO --- {"grades":[{"courseid":5,"grade":"-","rawgrade":null}],"warnings":[]} Type: get_student_progress
+2021-01-13 01:31:53--- INFO --- {"username":"lejar21390","password":"#LI)SY6PNVfA","firstname":"rogers","lastname":"rabbit","email":"lejar21390@majorsww.com","phone1":"4168321997"} Type: process_user
+2021-01-13 01:31:54--- INFO --- [{"id":61,"username":"lejar21390"}] Type: process_user-INIT
+2021-01-13 01:31:54--- INFO --- {"users":[{"userid":61,"companyid":3,"result":true,"message":""}]} Type: process_user-CREATE
+2021-01-13 01:31:54--- INFO --- true Type: process_user-CREATE
+2021-01-13 01:31:54--- ERROR --- {"username":"lejar21390","password":"#LI)SY6PNVfA","firstname":"rogers","lastname":"rabbit","email":"lejar21390@majorsww.com","phone1":"4168321997"} Type: email user
+2021-01-13 01:37:34--- INFO --- {"username":"cavomo6129","password":"@1zrF%vtLEwy","firstname":"shopper","lastname":"DRUGMART","email":"cavomo6129@sofiarae.com","phone1":"4168321997"} Type: process_user
+2021-01-13 01:37:34--- INFO --- [{"id":62,"username":"cavomo6129"}] Type: process_user-INIT
+2021-01-13 01:37:34--- INFO --- {"users":[{"userid":62,"companyid":3,"result":true,"message":"You have exceeded the allowed maximum number of active users allowed (10). You will need to either suspend or delete some current users or contact the site administrator to increase the allowed value."}]} Type: process_user-CREATE
+2021-01-13 01:37:34--- INFO --- true Type: process_user-CREATE
+2021-01-13 01:37:34--- ERROR --- {"username":"cavomo6129","password":"@1zrF%vtLEwy","firstname":"shopper","lastname":"DRUGMART","email":"cavomo6129@sofiarae.com","phone1":"4168321997"} Type: email user
+2021-01-13 01:45:45--- INFO --- {"username":"bicegep233","password":"^DmC)j7U8j8S","firstname":"Mike","lastname":"Mississauga","email":"bicegep233@sofiarae.com","phone1":"4168321997"} Type: process_user
+2021-01-13 01:45:45--- INFO --- [{"id":63,"username":"bicegep233"}] Type: process_user-INIT
+2021-01-13 01:45:45--- INFO --- {"users":[{"userid":63,"companyid":3,"result":true,"message":"You have exceeded the allowed maximum number of active users allowed (10). You will need to either suspend or delete some current users or contact the site administrator to increase the allowed value."}]} Type: process_user-CREATE
+2021-01-13 01:45:45--- INFO --- true Type: process_user-CREATE
+2021-01-13 01:45:45--- ERROR --- {"username":"bicegep233","password":"^DmC)j7U8j8S","firstname":"Mike","lastname":"Mississauga","email":"bicegep233@sofiarae.com","phone1":"4168321997"} Type: email user
+2021-01-13 02:03:21--- INFO --- {"username":"raxil14769","password":"ktpQPHtAYOz9","firstname":"Absolute","lastname":"Cabinets","email":"raxil14769@maksap.com","phone1":"4168321997"} Type: process_user
+2021-01-13 02:03:22--- INFO --- [{"id":64,"username":"raxil14769"}] Type: process_user-INIT
+2021-01-13 02:03:22--- INFO --- {"users":[{"userid":64,"companyid":3,"result":true,"message":"You have exceeded the allowed maximum number of active users allowed (10). You will need to either suspend or delete some current users or contact the site administrator to increase the allowed value."}]} Type: process_user-CREATE
+2021-01-13 02:03:22--- INFO --- true Type: process_user-CREATE
+2021-01-13 02:03:22--- ERROR --- {"username":"raxil14769","password":"ktpQPHtAYOz9","firstname":"Absolute","lastname":"Cabinets","email":"raxil14769@maksap.com","phone1":"4168321997"} Type: email user
+2021-01-13 02:04:37--- INFO --- {"grades":[{"courseid":5,"grade":"-","rawgrade":null}],"warnings":[]} Type: get_student_progress
+2021-01-13 02:08:44--- INFO --- {"grades":[{"courseid":5,"grade":"-","rawgrade":null}],"warnings":[]} Type: get_student_progress
+2021-01-13 02:11:07--- INFO --- {"grades":[{"courseid":5,"grade":"-","rawgrade":null}],"warnings":[]} Type: get_student_progress
+2021-01-13 02:11:12--- INFO --- {"grades":[{"courseid":5,"grade":"-","rawgrade":null}],"warnings":[]} Type: get_student_progress
+2021-01-13 02:12:38--- INFO --- {"grades":[{"courseid":5,"grade":"-","rawgrade":null}],"warnings":[]} Type: get_student_progress
+2021-01-13 02:12:44--- INFO --- {"grades":[{"courseid":5,"grade":"-","rawgrade":null}],"warnings":[]} Type: get_student_progress
+2021-01-13 02:17:01--- INFO --- {"grades":[{"courseid":5,"grade":"-","rawgrade":null}],"warnings":[]} Type: get_student_progress
+2021-01-13 02:25:11--- INFO --- {"grades":[{"courseid":5,"grade":"-","rawgrade":null}],"warnings":[]} Type: get_student_progress
+2021-01-13 02:25:37--- INFO --- {"grades":[{"courseid":5,"grade":"-","rawgrade":null}],"warnings":[]} Type: get_student_progress
+2021-01-13 02:42:11--- INFO --- {"grades":[{"courseid":5,"grade":"-","rawgrade":null}],"warnings":[]} Type: get_student_progress
+2021-01-13 02:44:42--- INFO --- {"grades":[{"courseid":5,"grade":"-","rawgrade":null}],"warnings":[]} Type: get_student_progress
+2021-01-13 19:28:25--- INFO --- {"username":"miyasor808","password":"B(eayxDu^)PS","firstname":"Brampton","lastname":"Test","email":"miyasor808@vss6.com","phone1":"418321997"} Type: process_user
+2021-01-13 19:28:25--- INFO --- [{"id":65,"username":"miyasor808"}] Type: process_user-INIT
+2021-01-13 19:28:25--- INFO --- {"users":[{"userid":65,"companyid":3,"result":true,"message":"You have exceeded the allowed maximum number of active users allowed (10). You will need to either suspend or delete some current users or contact the site administrator to increase the allowed value."}]} Type: process_user-CREATE
+2021-01-13 19:28:25--- INFO --- true Type: process_user-CREATE
+2021-01-13 19:28:25--- ERROR --- {"username":"miyasor808","password":"B(eayxDu^)PS","firstname":"Brampton","lastname":"Test","email":"miyasor808@vss6.com","phone1":"418321997"} Type: email user
+2021-01-19 03:36:14--- INFO --- {"grades":[{"courseid":5,"grade":"-","rawgrade":null}],"warnings":[]} Type: get_student_progress
+2021-01-20 20:54:06--- INFO --- {"username":"lofori4381","password":"pVKIIF8q9Wcs","firstname":"Joe","lastname":"Biden","email":"lofori4381@serohiv.com","phone1":"4168321997"} Type: process_user
+2021-01-20 20:54:06--- INFO --- [{"id":66,"username":"lofori4381"}] Type: process_user-INIT
+2021-01-20 20:54:06--- INFO --- {"users":[{"userid":66,"companyid":3,"result":true,"message":"You have exceeded the allowed maximum number of active users allowed (10). You will need to either suspend or delete some current users or contact the site administrator to increase the allowed value."}]} Type: process_user-CREATE
+2021-01-20 20:54:07--- INFO --- true Type: process_user-CREATE
+2021-01-20 20:54:07--- ERROR --- {"username":"lofori4381","password":"pVKIIF8q9Wcs","firstname":"Joe","lastname":"Biden","email":"lofori4381@serohiv.com","phone1":"4168321997"} Type: email user
+2021-01-20 20:55:09--- INFO --- {"grades":[],"warnings":[]} Type: get_student_progress
+2021-01-20 20:57:05--- INFO --- {"grades":[{"courseid":5,"grade":"-","rawgrade":null}],"warnings":[]} Type: get_student_progress
+2021-01-22 03:05:39--- INFO --- {"username":"gipotan973","password":"HC**whEy6WTX","firstname":"Dhyamy","lastname":"Raj","email":"gipotan973@dashseat.com","phone1":"4168321997"} Type: process_user
+2021-01-22 03:05:39--- INFO --- [{"id":67,"username":"gipotan973"}] Type: process_user-INIT
+2021-01-22 03:05:39--- INFO --- {"users":[{"userid":67,"companyid":3,"result":true,"message":"You have exceeded the allowed maximum number of active users allowed (10). You will need to either suspend or delete some current users or contact the site administrator to increase the allowed value."}]} Type: process_user-CREATE
+2021-01-22 03:05:39--- INFO --- true Type: process_user-CREATE
+2021-01-22 03:05:39--- ERROR --- {"username":"gipotan973","password":"HC**whEy6WTX","firstname":"Dhyamy","lastname":"Raj","email":"gipotan973@dashseat.com","phone1":"4168321997"} Type: email user
+2021-01-22 03:07:26--- INFO --- {"username":"gipotan973","password":")4@t@MTufXji","firstname":"Dhyamy","lastname":"Raj","email":"gipotan973@dashseat.com","phone1":"4168321997"} Type: process_user
+2021-01-22 03:07:27--- ERROR --- {"exception":"invalid_parameter_exception","errorcode":"invalidparameter","message":"Invalid parameter value detected","debuginfo":"Username already exists: gipotan973"} Type: Initiate_user
+2021-01-22 03:07:27--- ERROR --- "https:\/\/lms.learndrive.ca\/webservice\/rest\/server.php?wstoken=6d86a660a4865346da2eda9c21cf2cf9&moodlewsrestformat=json&wsfunction=core_user_create_users&users[0][username]=gipotan973&users[0][auth]=manual&users[0][password]=)4@t@MTufXji&users[0][firstname]=Dhyamy&users[0][lastname]=Raj&users[0][email]=gipotan973@dashseat.com&users[0][phone1]=4168321997" Type: Initiate_user-URL
+2021-01-22 03:07:27--- ERROR --- false Type: process_user-INIT
+2021-01-22 03:28:20--- INFO --- {"username":"yasofaj382","password":"I@VZ)h*k2%PW","firstname":"Lewis","lastname":"Hamilton","email":"yasofaj382@aiclbd.com","phone1":"4168787117"} Type: process_user
+2021-01-22 03:28:20--- INFO --- [{"id":68,"username":"yasofaj382"}] Type: process_user-INIT
+2021-01-22 03:28:20--- INFO --- {"users":[{"userid":68,"companyid":3,"result":true,"message":"You have exceeded the allowed maximum number of active users allowed (10). You will need to either suspend or delete some current users or contact the site administrator to increase the allowed value."}]} Type: process_user-CREATE
+2021-01-22 03:28:20--- INFO --- true Type: process_user-CREATE
+2021-01-22 03:28:20--- ERROR --- {"username":"yasofaj382","password":"I@VZ)h*k2%PW","firstname":"Lewis","lastname":"Hamilton","email":"yasofaj382@aiclbd.com","phone1":"4168787117"} Type: email user
+2021-01-22 03:40:43--- INFO --- {"username":"codayik788","password":"G#j*@J&qrUGw","firstname":"Barry","lastname":"White","email":"codayik788@aiclbd.com","phone1":"4167278997"} Type: process_user
+2021-01-22 03:40:43--- INFO --- [{"id":69,"username":"codayik788"}] Type: process_user-INIT
+2021-01-22 03:40:43--- INFO --- {"users":[{"userid":69,"companyid":3,"result":true,"message":"You have exceeded the allowed maximum number of active users allowed (10). You will need to either suspend or delete some current users or contact the site administrator to increase the allowed value."}]} Type: process_user-CREATE
+2021-01-22 03:40:43--- INFO --- true Type: process_user-CREATE
+2021-01-22 03:40:43--- ERROR --- {"username":"codayik788","password":"G#j*@J&qrUGw","firstname":"Barry","lastname":"White","email":"codayik788@aiclbd.com","phone1":"4167278997"} Type: email user
+2021-01-23 00:13:21--- INFO --- {"username":"bidegec640","password":"c(X@1^2!Q&LY","firstname":"Joe","lastname":"Harris","email":"bidegec640@aiclbd.com","phone1":"4168321997"} Type: process_user
+2021-01-23 00:13:22--- INFO --- [{"id":70,"username":"bidegec640"}] Type: process_user-INIT
+2021-01-23 00:13:22--- INFO --- {"users":[{"userid":70,"companyid":3,"result":true,"message":"You have exceeded the allowed maximum number of active users allowed (10). You will need to either suspend or delete some current users or contact the site administrator to increase the allowed value."}]} Type: process_user-CREATE
+2021-01-23 00:13:22--- INFO --- true Type: process_user-CREATE
+2021-01-23 00:13:22--- ERROR --- {"username":"bidegec640","password":"c(X@1^2!Q&LY","firstname":"Joe","lastname":"Harris","email":"bidegec640@aiclbd.com","phone1":"4168321997"} Type: email user
+2021-01-23 00:14:52--- INFO --- {"grades":[{"courseid":5,"grade":"-","rawgrade":null}],"warnings":[]} Type: get_student_progress

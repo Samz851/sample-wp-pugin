@@ -1,0 +1,59 @@
+2021-01-29 00:28:46--- INFO --- [] Type: get_student_bookings
+2021-01-29 00:28:51--- INFO --- [{"id":"19","student_id":"990124","tookan_id":"32967173","booking_date":"2021-01-25 13:30:00","booking_end":"2021-01-25 15:00:00","instructor":"911715","job_id":"191043506","tracking_url":"https:\/\/jngl.ml\/4Z4f3X861","status":"1","acknowledgment":null}] Type: get_student_bookings
+2021-01-29 00:28:54--- INFO --- [{"id":"10","student_id":"990113","tookan_id":"32546754","booking_date":"2021-01-14 09:30:00","booking_end":"2021-01-14 11:00:00","instructor":"860291","job_id":"186565224","tracking_url":"https:\/\/jngl.ml\/EJ021db19","status":"1","acknowledgment":null}] Type: get_student_bookings
+2021-01-29 00:28:57--- INFO --- [] Type: get_student_bookings
+2021-01-29 00:29:10--- INFO --- [] Type: get_student_bookings
+2021-01-29 00:29:24--- INFO --- [] Type: get_student_bookings
+2021-01-29 00:34:31--- INFO --- [] Type: get_student_bookings
+2021-01-29 00:34:54--- INFO --- [] Type: get_student_bookings
+2021-01-29 00:35:20--- INFO --- [] Type: get_student_bookings
+2021-01-29 00:52:02--- INFO --- null Type: get_student_bookings_count
+2021-01-29 00:52:30--- INFO --- [] Type: get_student_bookings
+2021-01-29 00:52:42--- INFO --- [] Type: get_student_bookings
+2021-01-29 01:54:42--- INFO --- [] Type: get_student_bookings
+2021-01-29 01:54:56--- INFO --- [] Type: get_student_bookings
+2021-01-29 01:55:01--- INFO --- [] Type: get_student_bookings
+2021-01-29 02:03:42--- INFO --- [] Type: get_student_bookings
+2021-01-29 02:04:49--- INFO --- [] Type: get_student_bookings
+2021-01-29 02:20:32--- INFO --- [] Type: get_student_bookings
+2021-01-29 02:21:28--- INFO --- [] Type: get_student_bookings
+2021-01-29 02:22:47--- INFO --- [] Type: get_student_bookings
+2021-01-29 02:55:17--- INFO --- [] Type: get_student_bookings
+2021-01-29 03:02:55--- INFO --- "array" Type: READ student agents
+2021-01-29 03:02:58--- INFO --- {"success":true,"agent_id":"860291","job_id":193935938,"tracking_url":"https:\/\/jngl.ml\/5fNZ5a820"} Type: add_student_bookings--task
+2021-01-29 03:02:58--- INFO --- 1 Type: save_student_booking
+2021-01-29 03:03:13--- INFO --- [{"id":"1","student_id":"990125","tookan_id":"33226026","booking_date":"2021-01-28 09:00:00","booking_end":"2021-01-28 10:30:00","instructor":"860291","job_id":"193935938","tracking_url":"https:\/\/jngl.ml\/5fNZ5a820","acknowledgment":null,"status":"1"}] Type: get_student_bookings
+2021-01-29 03:03:23--- INFO --- "array" Type: READ student agents
+2021-01-29 03:03:25--- INFO --- {"success":true,"agent_id":"860291","job_id":193936052,"tracking_url":"https:\/\/jngl.ml\/Lfc78G7ee"} Type: add_student_bookings--task
+2021-01-29 03:03:25--- INFO --- 1 Type: save_student_booking
+2021-01-29 03:03:33--- INFO --- [{"id":"1","student_id":"990125","tookan_id":"33226026","booking_date":"2021-01-28 09:00:00","booking_end":"2021-01-28 10:30:00","instructor":"860291","job_id":"193935938","tracking_url":"https:\/\/jngl.ml\/5fNZ5a820","acknowledgment":null,"status":"1"},{"id":"2","student_id":"990125","tookan_id":"33226026","booking_date":"2021-01-29 09:15:00","booking_end":"2021-01-29 10:45:00","instructor":"860291","job_id":"193936052","tracking_url":"https:\/\/jngl.ml\/Lfc78G7ee","acknowledgment":null,"status":"1"}] Type: get_student_bookings
+2021-01-29 03:03:53--- INFO --- "array" Type: READ student agents
+2021-01-29 03:03:54--- INFO --- {"success":true,"agent_id":"860291","job_id":193936186,"tracking_url":"https:\/\/jngl.ml\/b52aKY7d3"} Type: add_student_bookings--task
+2021-01-29 03:03:54--- INFO --- 1 Type: save_student_booking
+2021-01-29 03:03:57--- INFO --- [{"id":"1","student_id":"990125","tookan_id":"33226026","booking_date":"2021-01-28 09:00:00","booking_end":"2021-01-28 10:30:00","instructor":"860291","job_id":"193935938","tracking_url":"https:\/\/jngl.ml\/5fNZ5a820","acknowledgment":null,"status":"1"},{"id":"2","student_id":"990125","tookan_id":"33226026","booking_date":"2021-01-29 09:15:00","booking_end":"2021-01-29 10:45:00","instructor":"860291","job_id":"193936052","tracking_url":"https:\/\/jngl.ml\/Lfc78G7ee","acknowledgment":null,"status":"1"},{"id":"3","student_id":"990125","tookan_id":"33226026","booking_date":"2021-01-30 09:30:00","booking_end":"2021-01-30 11:00:00","instructor":"860291","job_id":"193936186","tracking_url":"https:\/\/jngl.ml\/b52aKY7d3","acknowledgment":null,"status":"1"}] Type: get_student_bookings
+2021-01-29 03:09:43--- INFO --- [{"id":"1","student_id":"990125","tookan_id":"33226026","booking_date":"2021-01-28 09:00:00","booking_end":"2021-01-28 10:30:00","instructor":"860291","job_id":"193935938","tracking_url":"https:\/\/jngl.ml\/5fNZ5a820","acknowledgment":null,"status":"1"},{"id":"2","student_id":"990125","tookan_id":"33226026","booking_date":"2021-01-29 09:15:00","booking_end":"2021-01-29 10:45:00","instructor":"860291","job_id":"193936052","tracking_url":"https:\/\/jngl.ml\/Lfc78G7ee","acknowledgment":null,"status":"1"},{"id":"3","student_id":"990125","tookan_id":"33226026","booking_date":"2021-01-30 09:30:00","booking_end":"2021-01-30 11:00:00","instructor":"860291","job_id":"193936186","tracking_url":"https:\/\/jngl.ml\/b52aKY7d3","acknowledgment":null,"status":"1"}] Type: get_student_bookings
+2021-01-29 03:10:27--- INFO --- [{"id":"1","student_id":"990125","tookan_id":"33226026","booking_date":"2021-01-28 09:00:00","booking_end":"2021-01-28 10:30:00","instructor":"860291","job_id":"193935938","tracking_url":"https:\/\/jngl.ml\/5fNZ5a820","acknowledgment":null,"status":"1"},{"id":"2","student_id":"990125","tookan_id":"33226026","booking_date":"2021-01-29 09:15:00","booking_end":"2021-01-29 10:45:00","instructor":"860291","job_id":"193936052","tracking_url":"https:\/\/jngl.ml\/Lfc78G7ee","acknowledgment":null,"status":"1"},{"id":"3","student_id":"990125","tookan_id":"33226026","booking_date":"2021-01-30 09:30:00","booking_end":"2021-01-30 11:00:00","instructor":"860291","job_id":"193936186","tracking_url":"https:\/\/jngl.ml\/b52aKY7d3","acknowledgment":null,"status":"1"}] Type: get_student_bookings
+2021-01-29 03:11:54--- INFO --- "193936186" Type: delete_booking
+2021-01-29 03:12:02--- INFO --- [{"id":"1","student_id":"990125","tookan_id":"33226026","booking_date":"2021-01-28 09:00:00","booking_end":"2021-01-28 10:30:00","instructor":"860291","job_id":"193935938","tracking_url":"https:\/\/jngl.ml\/5fNZ5a820","acknowledgment":null,"status":"1"},{"id":"2","student_id":"990125","tookan_id":"33226026","booking_date":"2021-01-29 09:15:00","booking_end":"2021-01-29 10:45:00","instructor":"860291","job_id":"193936052","tracking_url":"https:\/\/jngl.ml\/Lfc78G7ee","acknowledgment":null,"status":"1"}] Type: get_student_bookings
+2021-01-29 03:13:17--- INFO --- [{"id":"1","student_id":"990125","tookan_id":"33226026","booking_date":"2021-01-28 09:00:00","booking_end":"2021-01-28 10:30:00","instructor":"860291","job_id":"193935938","tracking_url":"https:\/\/jngl.ml\/5fNZ5a820","acknowledgment":null,"status":"1"},{"id":"2","student_id":"990125","tookan_id":"33226026","booking_date":"2021-01-29 09:15:00","booking_end":"2021-01-29 10:45:00","instructor":"860291","job_id":"193936052","tracking_url":"https:\/\/jngl.ml\/Lfc78G7ee","acknowledgment":null,"status":"1"}] Type: get_student_bookings
+2021-01-29 03:13:29--- INFO --- "193935938" Type: delete_booking
+2021-01-29 03:13:30--- INFO --- [{"id":"2","student_id":"990125","tookan_id":"33226026","booking_date":"2021-01-29 09:15:00","booking_end":"2021-01-29 10:45:00","instructor":"860291","job_id":"193936052","tracking_url":"https:\/\/jngl.ml\/Lfc78G7ee","acknowledgment":null,"status":"1"}] Type: get_student_bookings
+2021-01-29 03:15:48--- INFO --- [{"id":"2","student_id":"990125","tookan_id":"33226026","booking_date":"2021-01-29 09:15:00","booking_end":"2021-01-29 10:45:00","instructor":"860291","job_id":"193936052","tracking_url":"https:\/\/jngl.ml\/Lfc78G7ee","acknowledgment":null,"status":"1"}] Type: get_student_bookings
+2021-01-29 03:19:31--- INFO --- [{"id":"2","student_id":"990125","tookan_id":"33226026","booking_date":"2021-01-29 09:15:00","booking_end":"2021-01-29 10:45:00","instructor":"860291","job_id":"193936052","tracking_url":"https:\/\/jngl.ml\/Lfc78G7ee","acknowledgment":null,"status":"1"}] Type: get_student_bookings
+2021-01-29 03:20:26--- INFO --- [{"id":"2","student_id":"990125","tookan_id":"33226026","booking_date":"2021-01-29 09:15:00","booking_end":"2021-01-29 10:45:00","instructor":"860291","job_id":"193936052","tracking_url":"https:\/\/jngl.ml\/Lfc78G7ee","acknowledgment":null,"status":"1"}] Type: get_student_bookings
+2021-01-29 03:22:48--- INFO --- [{"id":"2","student_id":"990125","tookan_id":"33226026","booking_date":"2021-01-29 09:15:00","booking_end":"2021-01-29 10:45:00","instructor":"860291","job_id":"193936052","tracking_url":"https:\/\/jngl.ml\/Lfc78G7ee","acknowledgment":null,"status":"1"}] Type: get_student_bookings
+2021-01-29 03:23:20--- INFO --- "1" Type: get_student_bookings_count
+2021-01-29 19:55:57--- INFO --- [{"id":"2","student_id":"990125","tookan_id":"33226026","booking_date":"2021-01-29 09:15:00","booking_end":"2021-01-29 10:45:00","instructor":"860291","job_id":"193936052","tracking_url":"https:\/\/jngl.ml\/Lfc78G7ee","acknowledgment":null,"status":"1"}] Type: get_student_bookings
+2021-01-31 17:34:55--- INFO --- "0" Type: get_student_bookings_count
+2021-02-07 21:00:22--- INFO --- "0" Type: get_student_bookings_count
+2021-02-07 21:04:27--- INFO --- "0" Type: get_student_bookings_count
+2021-02-23 02:22:46--- INFO --- "0" Type: get_student_bookings_count
+2021-02-23 02:27:08--- INFO --- [] Type: get_student_bookings
+2021-02-23 02:27:42--- INFO --- "0" Type: get_student_bookings_count
+2021-02-23 02:35:58--- INFO --- "0" Type: get_student_bookings_count
+2021-02-23 02:36:17--- INFO --- "0" Type: get_student_bookings_count
+2021-02-23 02:37:19--- INFO --- "0" Type: get_student_bookings_count
+2021-02-23 02:38:34--- INFO --- "0" Type: get_student_bookings_count
+2021-02-23 02:39:01--- INFO --- "0" Type: get_student_bookings_count
+2021-02-23 02:41:44--- INFO --- "0" Type: get_student_bookings_count
+2021-02-23 02:49:05--- INFO --- "0" Type: get_student_bookings_count

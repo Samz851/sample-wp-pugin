@@ -1,0 +1,23 @@
+2020-12-16 00:50:41--- INFO --- {"username":"learndrivetest","password":"$YGF%KU&9jP#","firstname":"Donald","lastname":"Trump","email":"learndrivetest@gmail.com","phone1":""} Type: process_user
+2020-12-16 00:50:41--- INFO --- [{"id":40,"username":"learndrivetest"}] Type: process_user-INIT
+2020-12-16 00:50:41--- INFO --- {"users":[{"userid":40,"companyid":3,"result":true,"message":""}]} Type: process_user-CREATE
+2020-12-16 00:50:41--- INFO --- true Type: process_user-CREATE
+2020-12-16 00:50:42--- ERROR --- {"username":"learndrivetest","password":"$YGF%KU&9jP#","firstname":"Donald","lastname":"Trump","email":"learndrivetest@gmail.com","phone1":"","isemailed":true,"lmsid":40} Type: email user
+2020-12-16 00:56:04--- INFO --- {"username":"learndrivetest","password":"llAynL^g)7nj","firstname":"Donald","lastname":"Trump","email":"learndrivetest@gmail.com","phone1":""} Type: process_user
+2020-12-16 00:56:04--- ERROR --- {"exception":"invalid_parameter_exception","errorcode":"invalidparameter","message":"Invalid parameter value detected","debuginfo":"Username already exists: learndrivetest"} Type: Initiate_user
+2020-12-16 00:56:04--- ERROR --- "https:\/\/lms.learndrive.ca\/webservice\/rest\/server.php?wstoken=6d86a660a4865346da2eda9c21cf2cf9&moodlewsrestformat=json&wsfunction=core_user_create_users&users[0][username]=learndrivetest&users[0][auth]=manual&users[0][password]=llAynL^g)7nj&users[0][firstname]=Donald&users[0][lastname]=Trump&users[0][email]=learndrivetest@gmail.com&users[0][phone1]=" Type: Initiate_user-URL
+2020-12-16 00:56:04--- ERROR --- false Type: process_user-INIT
+2020-12-16 01:03:46--- INFO --- {"username":"learndrivetest","password":"6nsiFyxT&mtd","firstname":"Donald","lastname":"Trump","email":"learndrivetest@gmail.com","phone1":"4167278997"} Type: process_user
+2020-12-16 01:03:46--- INFO --- [{"id":41,"username":"learndrivetest"}] Type: process_user-INIT
+2020-12-16 01:03:46--- INFO --- {"users":[{"userid":41,"companyid":3,"result":true,"message":""}]} Type: process_user-CREATE
+2020-12-16 01:03:46--- INFO --- true Type: process_user-CREATE
+2020-12-16 01:03:47--- ERROR --- {"username":"learndrivetest","password":"6nsiFyxT&mtd","firstname":"Donald","lastname":"Trump","email":"learndrivetest@gmail.com","phone1":"4167278997","isemailed":true,"lmsid":41} Type: email user
+2020-12-16 01:51:37--- INFO --- {"grades":[{"courseid":5,"grade":"-","rawgrade":null}],"warnings":[]} Type: get_student_progress
+2020-12-16 01:52:06--- INFO --- {"grades":[{"courseid":5,"grade":"-","rawgrade":null}],"warnings":[]} Type: get_student_progress
+2020-12-16 02:03:31--- INFO --- {"grades":[{"courseid":5,"grade":"-","rawgrade":null}],"warnings":[]} Type: get_student_progress
+2020-12-16 02:04:16--- INFO --- {"grades":[{"courseid":5,"grade":"-","rawgrade":null}],"warnings":[]} Type: get_student_progress
+2020-12-16 02:12:24--- INFO --- {"grades":[{"courseid":5,"grade":"-","rawgrade":null}],"warnings":[]} Type: get_student_progress
+2020-12-16 02:12:33--- INFO --- {"grades":[{"courseid":5,"grade":"-","rawgrade":null}],"warnings":[]} Type: get_student_progress
+2020-12-16 02:13:19--- INFO --- {"grades":[{"courseid":5,"grade":"-","rawgrade":null}],"warnings":[]} Type: get_student_progress
+2020-12-20 20:24:17--- INFO --- {"grades":[{"courseid":5,"grade":"-","rawgrade":null}],"warnings":[]} Type: get_student_progress
+2020-12-23 02:34:55--- INFO --- {"grades":[{"courseid":5,"grade":"-","rawgrade":null}],"warnings":[]} Type: get_student_progress

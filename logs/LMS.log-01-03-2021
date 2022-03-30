@@ -1,0 +1,12 @@
+2021-01-29 00:50:51--- INFO --- {"username":"gajono7955","password":"IsMTH$pNU%U6","firstname":"Michael","lastname":"Schumacher","email":"gajono7955@200cai.com","phone1":"8459325757"} Type: process_user
+2021-01-29 00:50:51--- INFO --- [{"id":71,"username":"gajono7955"}] Type: process_user-INIT
+2021-01-29 00:50:51--- INFO --- {"users":[{"userid":71,"companyid":3,"result":true,"message":"You have exceeded the allowed maximum number of active users allowed (10). You will need to either suspend or delete some current users or contact the site administrator to increase the allowed value."}]} Type: process_user-CREATE
+2021-01-29 00:50:52--- INFO --- true Type: process_user-CREATE
+2021-01-29 00:50:52--- ERROR --- {"username":"gajono7955","password":"IsMTH$pNU%U6","firstname":"Michael","lastname":"Schumacher","email":"gajono7955@200cai.com","phone1":"8459325757"} Type: email user
+2021-01-29 00:52:02--- INFO --- {"grades":[{"courseid":5,"grade":"-","rawgrade":null}],"warnings":[]} Type: get_student_progress
+2021-01-29 03:11:36--- INFO --- {"username":"learndrivetest","password":"V^V0VR$jj777","firstname":"Shadow","lastname":"Eyes","email":"learndrivetest@gmail.com","phone1":"7418523639"} Type: process_user
+2021-01-29 03:11:37--- ERROR --- {"exception":"invalid_parameter_exception","errorcode":"invalidparameter","message":"Invalid parameter value detected","debuginfo":"Username already exists: learndrivetest"} Type: Initiate_user
+2021-01-29 03:11:37--- ERROR --- "https:\/\/lms.learndrive.ca\/webservice\/rest\/server.php?wstoken=6d86a660a4865346da2eda9c21cf2cf9&moodlewsrestformat=json&wsfunction=core_user_create_users&users[0][username]=learndrivetest&users[0][auth]=manual&users[0][password]=V^V0VR$jj777&users[0][firstname]=Shadow&users[0][lastname]=Eyes&users[0][email]=learndrivetest@gmail.com&users[0][phone1]=7418523639" Type: Initiate_user-URL
+2021-01-29 03:11:37--- ERROR --- false Type: process_user-INIT
+2021-01-29 03:23:20--- INFO --- {"grades":[{"courseid":5,"grade":"-","rawgrade":null}],"warnings":[]} Type: get_student_progress
+2021-01-31 17:34:55--- INFO --- {"grades":[],"warnings":[]} Type: get_student_progress

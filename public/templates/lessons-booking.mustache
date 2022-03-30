@@ -1,0 +1,60 @@
+{{#bookingsAllowed}}
+<div class="ad-booking-page" data-student-id={{ID}}>
+<input id="booking-date" name="booking-date" type="hidden" />
+    <div class="booking-confirmation"></div>
+    <div class="ad-booking-wrapper">
+        <div class="ad-booking-calendar">
+            <div class="inst-availability">
+                <div class="add-bookingdate show row">
+                    <div class="col-md-10" id="date-picker">
+                        <p>Pick 7 days range to see your instructor's availability</p>
+                        <input name="dateranger" />
+                        {{#hasExam}}
+                        <div class="exam-input-container">
+                            <input type="checkbox" name="exam-booking" id="exam-booking" />
+                            <span> Exam Session Booking?</span>
+                        </div>
+                        {{/hasExam}}
+                    </div>
+                    <div class="col-md-2">
+                        <button id="submit-student-booking">Submit</button>
+                    </div>
+                </div>
+                <table id="agent-availability">
+                    <thead>
+                        <tr>
+                            <th></th>
+                        </tr>
+                    </thead>
+                    <tbody>
+
+                    </tbody>
+                </table>
+            </div>
+            <table class="wp-list-table widefat fixed striped">
+                <thead>
+                    <td>Booking Date/Time</td>
+                    <td>Booking Status</td>
+                </thead>
+                <tbody class="the-list">
+                    {{^bookings}}
+                    <tr><td colspan="3" id="empty-bookings">No Bookings</td><tr>
+                    {{/bookings}}
+                    {{#bookings }}
+                        {{#.}}
+                            <tr>
+                                <td>{{ booking_date }} to {{ booking_end }}</td>
+                                <td> {{ status }} | <a href={{tracking_url}}>View</a> | 
+                                {{#cancel}}<a href="#" data-ad-booking={{job_id}}>Cancel</a></td>{{/cancel}}
+                            </tr>
+                        {{/.}}
+                    {{/bookings}}
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
+{{/bookingsAllowed}}
+{{^bookingsAllowed}}
+    <h1>You do not have in car sessions with your package, singup for one now... </h1>
+{{/bookingsAllowed}}

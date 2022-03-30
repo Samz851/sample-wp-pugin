@@ -1,0 +1,104 @@
+2020-12-24 22:58:09--- INFO --- [] Type: get_student_bookings
+2020-12-24 23:25:08--- INFO --- [] Type: get_student_bookings
+2020-12-24 23:28:29--- INFO --- [] Type: get_student_bookings
+2020-12-24 23:28:57--- INFO --- [] Type: get_student_bookings
+2020-12-24 23:30:22--- INFO --- [] Type: get_student_bookings
+2020-12-25 00:50:19--- INFO --- [] Type: get_student_bookings
+2020-12-25 01:02:18--- INFO --- [] Type: get_student_bookings
+2020-12-25 01:04:17--- INFO --- [] Type: get_student_bookings
+2020-12-25 01:05:49--- INFO --- [] Type: get_student_bookings
+2020-12-25 01:10:21--- INFO --- [] Type: get_student_bookings
+2020-12-25 01:27:59--- INFO --- [] Type: get_student_bookings
+2020-12-25 01:28:30--- INFO --- [] Type: get_student_bookings
+2020-12-25 01:34:25--- INFO --- [] Type: get_student_bookings
+2020-12-25 01:35:06--- INFO --- [] Type: get_student_bookings
+2020-12-25 01:36:28--- INFO --- [] Type: get_student_bookings
+2020-12-25 01:38:34--- INFO --- [] Type: get_student_bookings
+2020-12-25 01:39:21--- INFO --- [] Type: get_student_bookings
+2020-12-25 01:40:05--- INFO --- [] Type: get_student_bookings
+2020-12-25 01:43:37--- INFO --- [] Type: get_student_bookings
+2020-12-25 01:44:01--- INFO --- [] Type: get_student_bookings
+2020-12-25 01:45:04--- INFO --- [] Type: get_student_bookings
+2020-12-25 01:46:29--- INFO --- [] Type: get_student_bookings
+2020-12-25 02:08:38--- INFO --- [] Type: get_student_bookings
+2020-12-25 02:11:01--- INFO --- [] Type: get_student_bookings
+2020-12-25 02:12:20--- INFO --- [] Type: get_student_bookings
+2020-12-25 02:12:54--- INFO --- [] Type: get_student_bookings
+2020-12-25 02:13:54--- INFO --- [] Type: get_student_bookings
+2020-12-25 02:16:55--- INFO --- [] Type: get_student_bookings
+2020-12-25 02:17:29--- INFO --- [] Type: get_student_bookings
+2020-12-25 02:20:44--- INFO --- [] Type: get_student_bookings
+2020-12-25 02:21:21--- INFO --- [] Type: get_student_bookings
+2020-12-25 02:22:00--- INFO --- [] Type: get_student_bookings
+2020-12-25 02:41:10--- INFO --- [] Type: get_student_bookings
+2020-12-25 03:03:23--- INFO --- [] Type: get_student_bookings
+2020-12-25 03:04:10--- INFO --- [] Type: get_student_bookings
+2020-12-25 03:04:38--- INFO --- [] Type: get_student_bookings
+2020-12-25 03:06:23--- INFO --- [] Type: get_student_bookings
+2020-12-25 03:09:26--- INFO --- [] Type: get_student_bookings
+2020-12-25 03:21:05--- INFO --- [] Type: get_student_bookings
+2020-12-25 03:22:19--- INFO --- [] Type: get_student_bookings
+2020-12-25 03:26:35--- INFO --- [] Type: get_student_bookings
+2020-12-25 03:27:00--- INFO --- [] Type: get_student_bookings
+2020-12-25 03:27:46--- INFO --- [] Type: get_student_bookings
+2020-12-25 03:34:16--- INFO --- [] Type: get_student_bookings
+2020-12-25 03:35:20--- INFO --- [] Type: get_student_bookings
+2020-12-25 03:36:10--- INFO --- [] Type: get_student_bookings
+2020-12-25 03:38:51--- INFO --- [] Type: get_student_bookings
+2020-12-25 03:46:00--- INFO --- [] Type: get_student_bookings
+2020-12-25 03:48:06--- INFO --- [] Type: get_student_bookings
+2020-12-25 03:53:25--- INFO --- [] Type: get_student_bookings
+2020-12-25 04:40:11--- INFO --- [] Type: get_student_bookings
+2020-12-25 04:41:14--- INFO --- [] Type: get_student_bookings
+2020-12-25 04:47:47--- INFO --- [] Type: get_student_bookings
+2020-12-25 04:51:38--- INFO --- [] Type: get_student_bookings
+2020-12-25 04:52:09--- INFO --- [] Type: get_student_bookings
+2020-12-25 04:52:21--- INFO --- [] Type: get_student_bookings
+2020-12-25 04:53:59--- INFO --- "array" Type: READ student agents
+2020-12-25 04:53:59--- INFO --- ["861268"] Type: add_student_bookings
+2020-12-25 04:53:59--- INFO --- "990082" Type: get student
+2020-12-25 04:54:01--- INFO --- {"success":true,"agent_id":"861268","job_id":178813619} Type: add_student_bookings--task
+2020-12-25 04:54:01--- INFO --- {"student_id":"990082","tookan_id":"31358318","booking_date":"1970-01-01 12:00:00","instructor":"861268","job_id":178813619,"status":1} Type: check data
+2020-12-25 04:54:01--- INFO --- 1 Type: save_student_booking
+2020-12-25 05:00:46--- INFO --- "array" Type: READ student agents
+2020-12-25 05:00:46--- INFO --- ["861268"] Type: add_student_bookings
+2020-12-25 05:00:46--- INFO --- "990082" Type: get student
+2020-12-25 05:00:48--- INFO --- {"success":true,"agent_id":"861268","job_id":178820250} Type: add_student_bookings--task
+2020-12-25 05:00:48--- INFO --- {"student_id":"990082","tookan_id":"31358318","booking_date":"1970-01-01 12:00:00","instructor":"861268","job_id":178820250,"status":1} Type: check data
+2020-12-25 05:00:48--- INFO --- 1 Type: save_student_booking
+2020-12-25 05:06:13--- INFO --- "array" Type: READ student agents
+2020-12-25 05:06:13--- INFO --- ["861268"] Type: add_student_bookings
+2020-12-25 05:06:13--- INFO --- "990082" Type: get student
+2020-12-25 05:06:14--- INFO --- {"success":true,"agent_id":"861268","job_id":178825206} Type: add_student_bookings--task
+2020-12-25 05:06:14--- INFO --- {"student_id":"990082","tookan_id":"31358318","booking_date":"1970-01-01 12:00:00","instructor":"861268","job_id":178825206,"status":1} Type: check data
+2020-12-25 05:06:14--- INFO --- 1 Type: save_student_booking
+2020-12-25 05:17:22--- INFO --- [{"id":"15","student_id":"990082","tookan_id":"31358318","booking_date":"1970-01-01 12:00:00","instructor":"861268","job_id":"178813619","status":"1"},{"id":"16","student_id":"990082","tookan_id":"31358318","booking_date":"1970-01-01 12:00:00","instructor":"861268","job_id":"178820250","status":"1"},{"id":"17","student_id":"990082","tookan_id":"31358318","booking_date":"1970-01-01 12:00:00","instructor":"861268","job_id":"178825206","status":"1"}] Type: get_student_bookings
+2020-12-25 05:39:44--- INFO --- [{"id":"15","student_id":"990082","tookan_id":"31358318","booking_date":"1970-01-01 12:00:00","instructor":"861268","job_id":"178813619","status":"1"},{"id":"16","student_id":"990082","tookan_id":"31358318","booking_date":"1970-01-01 12:00:00","instructor":"861268","job_id":"178820250","status":"1"},{"id":"17","student_id":"990082","tookan_id":"31358318","booking_date":"1970-01-01 12:00:00","instructor":"861268","job_id":"178825206","status":"1"}] Type: get_student_bookings
+2020-12-25 05:42:01--- INFO --- [{"id":"15","student_id":"990082","tookan_id":"31358318","booking_date":"1970-01-01 12:00:00","instructor":"861268","job_id":"178813619","status":"1"},{"id":"16","student_id":"990082","tookan_id":"31358318","booking_date":"1970-01-01 12:00:00","instructor":"861268","job_id":"178820250","status":"1"},{"id":"17","student_id":"990082","tookan_id":"31358318","booking_date":"1970-01-01 12:00:00","instructor":"861268","job_id":"178825206","status":"1"}] Type: get_student_bookings
+2020-12-25 05:46:40--- INFO --- [{"id":"15","student_id":"990082","tookan_id":"31358318","booking_date":"1970-01-01 12:00:00","instructor":"861268","job_id":"178813619","status":"1"},{"id":"16","student_id":"990082","tookan_id":"31358318","booking_date":"1970-01-01 12:00:00","instructor":"861268","job_id":"178820250","status":"1"},{"id":"17","student_id":"990082","tookan_id":"31358318","booking_date":"1970-01-01 12:00:00","instructor":"861268","job_id":"178825206","status":"1"}] Type: get_student_bookings
+2020-12-25 05:47:58--- INFO --- [{"id":"15","student_id":"990082","tookan_id":"31358318","booking_date":"1970-01-01 12:00:00","instructor":"861268","job_id":"178813619","status":"1"},{"id":"16","student_id":"990082","tookan_id":"31358318","booking_date":"1970-01-01 12:00:00","instructor":"861268","job_id":"178820250","status":"1"},{"id":"17","student_id":"990082","tookan_id":"31358318","booking_date":"1970-01-01 12:00:00","instructor":"861268","job_id":"178825206","status":"1"}] Type: get_student_bookings
+2020-12-25 05:49:27--- INFO --- [{"id":"15","student_id":"990082","tookan_id":"31358318","booking_date":"1970-01-01 12:00:00","instructor":"861268","job_id":"178813619","status":"1"},{"id":"16","student_id":"990082","tookan_id":"31358318","booking_date":"1970-01-01 12:00:00","instructor":"861268","job_id":"178820250","status":"1"},{"id":"17","student_id":"990082","tookan_id":"31358318","booking_date":"1970-01-01 12:00:00","instructor":"861268","job_id":"178825206","status":"1"}] Type: get_student_bookings
+2020-12-25 05:52:35--- INFO --- [{"id":"15","student_id":"990082","tookan_id":"31358318","booking_date":"1970-01-01 12:00:00","instructor":"861268","job_id":"178813619","status":"1"},{"id":"16","student_id":"990082","tookan_id":"31358318","booking_date":"1970-01-01 12:00:00","instructor":"861268","job_id":"178820250","status":"1"},{"id":"17","student_id":"990082","tookan_id":"31358318","booking_date":"1970-01-01 12:00:00","instructor":"861268","job_id":"178825206","status":"1"}] Type: get_student_bookings
+2020-12-25 05:53:30--- INFO --- [{"id":"15","student_id":"990082","tookan_id":"31358318","booking_date":"1970-01-01 12:00:00","instructor":"861268","job_id":"178813619","status":"1"},{"id":"16","student_id":"990082","tookan_id":"31358318","booking_date":"1970-01-01 12:00:00","instructor":"861268","job_id":"178820250","status":"1"},{"id":"17","student_id":"990082","tookan_id":"31358318","booking_date":"1970-01-01 12:00:00","instructor":"861268","job_id":"178825206","status":"1"}] Type: get_student_bookings
+2020-12-25 05:56:29--- INFO --- [{"id":"15","student_id":"990082","tookan_id":"31358318","booking_date":"1970-01-01 12:00:00","instructor":"861268","job_id":"178813619","status":"1"},{"id":"16","student_id":"990082","tookan_id":"31358318","booking_date":"1970-01-01 12:00:00","instructor":"861268","job_id":"178820250","status":"1"},{"id":"17","student_id":"990082","tookan_id":"31358318","booking_date":"1970-01-01 12:00:00","instructor":"861268","job_id":"178825206","status":"1"}] Type: get_student_bookings
+2020-12-25 05:58:12--- INFO --- [{"id":"15","student_id":"990082","tookan_id":"31358318","booking_date":"1970-01-01 12:00:00","instructor":"861268","job_id":"178813619","status":"1"},{"id":"16","student_id":"990082","tookan_id":"31358318","booking_date":"1970-01-01 12:00:00","instructor":"861268","job_id":"178820250","status":"1"},{"id":"17","student_id":"990082","tookan_id":"31358318","booking_date":"1970-01-01 12:00:00","instructor":"861268","job_id":"178825206","status":"1"}] Type: get_student_bookings
+2020-12-25 06:06:30--- INFO --- [{"id":"15","student_id":"990082","tookan_id":"31358318","booking_date":"1970-01-01 12:00:00","instructor":"861268","job_id":"178813619","status":"1"},{"id":"16","student_id":"990082","tookan_id":"31358318","booking_date":"1970-01-01 12:00:00","instructor":"861268","job_id":"178820250","status":"1"},{"id":"17","student_id":"990082","tookan_id":"31358318","booking_date":"1970-01-01 12:00:00","instructor":"861268","job_id":"178825206","status":"1"}] Type: get_student_bookings
+2020-12-25 06:08:34--- INFO --- [{"id":"15","student_id":"990082","tookan_id":"31358318","booking_date":"1970-01-01 12:00:00","instructor":"861268","job_id":"178813619","status":"1"},{"id":"16","student_id":"990082","tookan_id":"31358318","booking_date":"1970-01-01 12:00:00","instructor":"861268","job_id":"178820250","status":"1"},{"id":"17","student_id":"990082","tookan_id":"31358318","booking_date":"1970-01-01 12:00:00","instructor":"861268","job_id":"178825206","status":"1"}] Type: get_student_bookings
+2020-12-25 06:09:14--- INFO --- [{"id":"15","student_id":"990082","tookan_id":"31358318","booking_date":"1970-01-01 12:00:00","instructor":"861268","job_id":"178813619","status":"1"},{"id":"16","student_id":"990082","tookan_id":"31358318","booking_date":"1970-01-01 12:00:00","instructor":"861268","job_id":"178820250","status":"1"},{"id":"17","student_id":"990082","tookan_id":"31358318","booking_date":"1970-01-01 12:00:00","instructor":"861268","job_id":"178825206","status":"1"}] Type: get_student_bookings
+2020-12-25 06:09:54--- INFO --- [{"id":"15","student_id":"990082","tookan_id":"31358318","booking_date":"1970-01-01 12:00:00","instructor":"861268","job_id":"178813619","status":"1"},{"id":"16","student_id":"990082","tookan_id":"31358318","booking_date":"1970-01-01 12:00:00","instructor":"861268","job_id":"178820250","status":"1"},{"id":"17","student_id":"990082","tookan_id":"31358318","booking_date":"1970-01-01 12:00:00","instructor":"861268","job_id":"178825206","status":"1"}] Type: get_student_bookings
+2020-12-25 06:11:30--- INFO --- [{"id":"15","student_id":"990082","tookan_id":"31358318","booking_date":"1970-01-01 12:00:00","instructor":"861268","job_id":"178813619","status":"1"},{"id":"16","student_id":"990082","tookan_id":"31358318","booking_date":"1970-01-01 12:00:00","instructor":"861268","job_id":"178820250","status":"1"},{"id":"17","student_id":"990082","tookan_id":"31358318","booking_date":"1970-01-01 12:00:00","instructor":"861268","job_id":"178825206","status":"1"}] Type: get_student_bookings
+2020-12-25 06:15:54--- INFO --- [{"id":"15","student_id":"990082","tookan_id":"31358318","booking_date":"1970-01-01 12:00:00","instructor":"861268","job_id":"178813619","status":"1"},{"id":"16","student_id":"990082","tookan_id":"31358318","booking_date":"1970-01-01 12:00:00","instructor":"861268","job_id":"178820250","status":"1"},{"id":"17","student_id":"990082","tookan_id":"31358318","booking_date":"1970-01-01 12:00:00","instructor":"861268","job_id":"178825206","status":"1"}] Type: get_student_bookings
+2020-12-25 06:19:42--- INFO --- [{"id":"15","student_id":"990082","tookan_id":"31358318","booking_date":"1970-01-01 12:00:00","instructor":"861268","job_id":"178813619","status":"1"},{"id":"16","student_id":"990082","tookan_id":"31358318","booking_date":"1970-01-01 12:00:00","instructor":"861268","job_id":"178820250","status":"1"},{"id":"17","student_id":"990082","tookan_id":"31358318","booking_date":"1970-01-01 12:00:00","instructor":"861268","job_id":"178825206","status":"1"}] Type: get_student_bookings
+2020-12-25 06:25:33--- INFO --- [{"id":"15","student_id":"990082","tookan_id":"31358318","booking_date":"1970-01-01 12:00:00","instructor":"861268","job_id":"178813619","status":"1"},{"id":"16","student_id":"990082","tookan_id":"31358318","booking_date":"1970-01-01 12:00:00","instructor":"861268","job_id":"178820250","status":"1"},{"id":"17","student_id":"990082","tookan_id":"31358318","booking_date":"1970-01-01 12:00:00","instructor":"861268","job_id":"178825206","status":"1"}] Type: get_student_bookings
+2020-12-25 06:27:15--- INFO --- [{"id":"15","student_id":"990082","tookan_id":"31358318","booking_date":"1970-01-01 12:00:00","instructor":"861268","job_id":"178813619","status":"1"},{"id":"16","student_id":"990082","tookan_id":"31358318","booking_date":"1970-01-01 12:00:00","instructor":"861268","job_id":"178820250","status":"1"},{"id":"17","student_id":"990082","tookan_id":"31358318","booking_date":"1970-01-01 12:00:00","instructor":"861268","job_id":"178825206","status":"1"}] Type: get_student_bookings
+2020-12-25 06:33:22--- INFO --- [{"id":"15","student_id":"990082","tookan_id":"31358318","booking_date":"1970-01-01 12:00:00","instructor":"861268","job_id":"178813619","status":"1"},{"id":"16","student_id":"990082","tookan_id":"31358318","booking_date":"1970-01-01 12:00:00","instructor":"861268","job_id":"178820250","status":"1"},{"id":"17","student_id":"990082","tookan_id":"31358318","booking_date":"1970-01-01 12:00:00","instructor":"861268","job_id":"178825206","status":"1"}] Type: get_student_bookings
+2020-12-25 06:37:12--- INFO --- [{"id":"15","student_id":"990082","tookan_id":"31358318","booking_date":"1970-01-01 12:00:00","instructor":"861268","job_id":"178813619","status":"1"},{"id":"16","student_id":"990082","tookan_id":"31358318","booking_date":"1970-01-01 12:00:00","instructor":"861268","job_id":"178820250","status":"1"},{"id":"17","student_id":"990082","tookan_id":"31358318","booking_date":"1970-01-01 12:00:00","instructor":"861268","job_id":"178825206","status":"1"}] Type: get_student_bookings
+2020-12-25 06:41:35--- INFO --- [{"id":"15","student_id":"990082","tookan_id":"31358318","booking_date":"1970-01-01 12:00:00","instructor":"861268","job_id":"178813619","status":"1"},{"id":"16","student_id":"990082","tookan_id":"31358318","booking_date":"1970-01-01 12:00:00","instructor":"861268","job_id":"178820250","status":"1"},{"id":"17","student_id":"990082","tookan_id":"31358318","booking_date":"1970-01-01 12:00:00","instructor":"861268","job_id":"178825206","status":"1"}] Type: get_student_bookings
+2020-12-25 06:42:51--- INFO --- [{"id":"15","student_id":"990082","tookan_id":"31358318","booking_date":"1970-01-01 12:00:00","instructor":"861268","job_id":"178813619","status":"1"},{"id":"16","student_id":"990082","tookan_id":"31358318","booking_date":"1970-01-01 12:00:00","instructor":"861268","job_id":"178820250","status":"1"},{"id":"17","student_id":"990082","tookan_id":"31358318","booking_date":"1970-01-01 12:00:00","instructor":"861268","job_id":"178825206","status":"1"}] Type: get_student_bookings
+2020-12-25 06:46:15--- INFO --- [{"id":"15","student_id":"990082","tookan_id":"31358318","booking_date":"1970-01-01 12:00:00","instructor":"861268","job_id":"178813619","status":"1"},{"id":"16","student_id":"990082","tookan_id":"31358318","booking_date":"1970-01-01 12:00:00","instructor":"861268","job_id":"178820250","status":"1"},{"id":"17","student_id":"990082","tookan_id":"31358318","booking_date":"1970-01-01 12:00:00","instructor":"861268","job_id":"178825206","status":"1"}] Type: get_student_bookings
+2020-12-25 06:46:52--- INFO --- [{"id":"15","student_id":"990082","tookan_id":"31358318","booking_date":"1970-01-01 12:00:00","instructor":"861268","job_id":"178813619","status":"1"},{"id":"16","student_id":"990082","tookan_id":"31358318","booking_date":"1970-01-01 12:00:00","instructor":"861268","job_id":"178820250","status":"1"},{"id":"17","student_id":"990082","tookan_id":"31358318","booking_date":"1970-01-01 12:00:00","instructor":"861268","job_id":"178825206","status":"1"}] Type: get_student_bookings
+2020-12-28 16:17:59--- INFO --- [{"id":"15","student_id":"990082","tookan_id":"31358318","booking_date":"1970-01-01 12:00:00","instructor":"861268","job_id":"178813619","status":"1"},{"id":"16","student_id":"990082","tookan_id":"31358318","booking_date":"1970-01-01 12:00:00","instructor":"861268","job_id":"178820250","status":"1"},{"id":"17","student_id":"990082","tookan_id":"31358318","booking_date":"1970-01-01 12:00:00","instructor":"861268","job_id":"178825206","status":"1"}] Type: get_student_bookings
+2020-12-28 16:18:13--- INFO --- [{"id":"15","student_id":"990082","tookan_id":"31358318","booking_date":"1970-01-01 12:00:00","instructor":"861268","job_id":"178813619","status":"1"},{"id":"16","student_id":"990082","tookan_id":"31358318","booking_date":"1970-01-01 12:00:00","instructor":"861268","job_id":"178820250","status":"1"},{"id":"17","student_id":"990082","tookan_id":"31358318","booking_date":"1970-01-01 12:00:00","instructor":"861268","job_id":"178825206","status":"1"}] Type: get_student_bookings
+2020-12-28 16:18:24--- INFO --- "178813619" Type: delete_booking
+2020-12-28 16:18:37--- INFO --- "178813619" Type: delete_booking
+2020-12-28 16:21:59--- INFO --- "178813619" Type: delete_booking

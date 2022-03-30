@@ -1,0 +1,187 @@
+2020-12-14 01:53:58--- INFO --- [{"id":"10","student_id":"990077","tookan_id":"31225378","booking_date":"2021-02-25 10:00:00","instructor":"861268","job_id":"173403458","status":"1"}] Type: get_student_bookings
+2020-12-14 03:01:01--- INFO --- [{"id":"10","student_id":"990077","tookan_id":"31225378","booking_date":"2021-02-25 10:00:00","instructor":"861268","job_id":"173403458","status":"1"}] Type: get_student_bookings
+2020-12-15 02:50:37--- INFO --- [{"id":"10","student_id":"990077","tookan_id":"31225378","booking_date":"2021-02-25 10:00:00","instructor":"861268","job_id":"173403458","status":"1"}] Type: get_all_bookings
+2020-12-15 02:50:37--- INFO --- {"id":"6","instructor_id":"861268","inst_name":"Mahalingam N","latitude":"43.5413470","longitude":"-79.7166538","booking_ids":null} Type: render_page
+2020-12-15 02:50:37--- INFO --- {"id":"10","student_id":"990077","tookan_id":"31225378","booking_date":"2021-02-25 10:00:00","instructor":"861268","job_id":"173403458","status":"Pending","instructor_name":"Mahalingam N","cancel":true} Type: render_pagebooking
+2020-12-15 02:55:55--- INFO --- [{"id":"10","student_id":"990077","tookan_id":"31225378","booking_date":"2021-02-25 10:00:00","instructor":"861268","job_id":"173403458","status":"1"}] Type: get_all_bookings
+2020-12-15 02:55:55--- INFO --- {"id":"6","instructor_id":"861268","inst_name":"Mahalingam N","latitude":"43.5413470","longitude":"-79.7166538","booking_ids":null} Type: render_page
+2020-12-15 02:55:55--- INFO --- {"id":"10","student_id":"990077","tookan_id":"31225378","booking_date":"2021-02-25 10:00:00","instructor":"861268","job_id":"173403458","status":"Pending","instructor_name":"Mahalingam N","cancel":true} Type: render_pagebooking
+2020-12-15 02:56:17--- INFO --- [] Type: get_student_bookings
+2020-12-15 02:56:35--- INFO --- "string" Type: READ student agents
+2020-12-15 02:56:35--- INFO --- null Type: add_student_bookings
+2020-12-15 02:56:35--- ERROR --- null Type: add_student_bookings--
+2020-12-15 02:56:48--- INFO --- [] Type: get_student_bookings
+2020-12-15 02:56:54--- INFO --- "string" Type: READ student agents
+2020-12-15 02:56:54--- INFO --- null Type: add_student_bookings
+2020-12-15 02:56:54--- ERROR --- null Type: add_student_bookings--
+2020-12-15 02:57:37--- INFO --- "string" Type: READ student agents
+2020-12-15 02:57:37--- INFO --- null Type: add_student_bookings
+2020-12-15 02:57:37--- ERROR --- null Type: add_student_bookings--
+2020-12-15 02:57:39--- INFO --- "string" Type: READ student agents
+2020-12-15 02:57:39--- INFO --- null Type: add_student_bookings
+2020-12-15 02:57:39--- ERROR --- null Type: add_student_bookings--
+2020-12-15 02:57:40--- INFO --- "string" Type: READ student agents
+2020-12-15 02:57:40--- INFO --- null Type: add_student_bookings
+2020-12-15 02:57:40--- ERROR --- null Type: add_student_bookings--
+2020-12-15 02:58:10--- INFO --- "string" Type: READ student agents
+2020-12-15 02:58:10--- INFO --- null Type: add_student_bookings
+2020-12-15 02:58:10--- ERROR --- null Type: add_student_bookings--
+2020-12-15 02:58:46--- INFO --- "string" Type: READ student agents
+2020-12-15 02:58:46--- INFO --- null Type: add_student_bookings
+2020-12-15 02:58:46--- ERROR --- null Type: add_student_bookings--
+2020-12-15 02:58:47--- INFO --- "string" Type: READ student agents
+2020-12-15 02:58:47--- INFO --- null Type: add_student_bookings
+2020-12-15 02:58:47--- ERROR --- null Type: add_student_bookings--
+2020-12-15 02:58:47--- INFO --- "string" Type: READ student agents
+2020-12-15 02:58:47--- INFO --- null Type: add_student_bookings
+2020-12-15 02:58:47--- ERROR --- null Type: add_student_bookings--
+2020-12-15 03:03:31--- INFO --- "string" Type: READ student agents
+2020-12-15 03:03:31--- INFO --- null Type: add_student_bookings
+2020-12-15 03:03:31--- ERROR --- null Type: add_student_bookings--
+2020-12-15 03:03:32--- INFO --- "string" Type: READ student agents
+2020-12-15 03:03:32--- INFO --- null Type: add_student_bookings
+2020-12-15 03:03:32--- ERROR --- null Type: add_student_bookings--
+2020-12-15 03:03:35--- INFO --- "string" Type: READ student agents
+2020-12-15 03:03:35--- INFO --- null Type: add_student_bookings
+2020-12-15 03:03:35--- ERROR --- null Type: add_student_bookings--
+2020-12-15 03:12:25--- INFO --- [] Type: get_student_bookings
+2020-12-15 03:13:05--- INFO --- "string" Type: READ student agents
+2020-12-15 03:13:05--- INFO --- null Type: add_student_bookings
+2020-12-15 03:13:05--- ERROR --- null Type: add_student_bookings--
+2020-12-15 03:13:07--- INFO --- "string" Type: READ student agents
+2020-12-15 03:13:07--- INFO --- null Type: add_student_bookings
+2020-12-15 03:13:07--- ERROR --- null Type: add_student_bookings--
+2020-12-15 03:13:13--- INFO --- "string" Type: READ student agents
+2020-12-15 03:13:13--- INFO --- null Type: add_student_bookings
+2020-12-15 03:13:13--- ERROR --- null Type: add_student_bookings--
+2020-12-15 03:15:34--- INFO --- "string" Type: READ student agents
+2020-12-15 03:15:34--- INFO --- null Type: add_student_bookings
+2020-12-15 03:15:34--- ERROR --- null Type: add_student_bookings--
+2020-12-15 03:15:37--- INFO --- "string" Type: READ student agents
+2020-12-15 03:15:37--- INFO --- null Type: add_student_bookings
+2020-12-15 03:15:37--- ERROR --- null Type: add_student_bookings--
+2020-12-15 03:15:42--- INFO --- [] Type: get_student_bookings
+2020-12-15 03:15:45--- INFO --- "string" Type: READ student agents
+2020-12-15 03:15:45--- INFO --- null Type: add_student_bookings
+2020-12-15 03:15:45--- ERROR --- null Type: add_student_bookings--
+2020-12-15 03:16:02--- INFO --- "string" Type: READ student agents
+2020-12-15 03:16:02--- INFO --- null Type: add_student_bookings
+2020-12-15 03:16:02--- ERROR --- null Type: add_student_bookings--
+2020-12-15 03:16:08--- INFO --- [] Type: get_student_bookings
+2020-12-15 03:16:18--- INFO --- "string" Type: READ student agents
+2020-12-15 03:16:18--- INFO --- null Type: add_student_bookings
+2020-12-15 03:16:18--- ERROR --- null Type: add_student_bookings--
+2020-12-15 03:16:20--- INFO --- "string" Type: READ student agents
+2020-12-15 03:16:20--- INFO --- null Type: add_student_bookings
+2020-12-15 03:16:20--- ERROR --- null Type: add_student_bookings--
+2020-12-15 03:16:24--- INFO --- "string" Type: READ student agents
+2020-12-15 03:16:24--- INFO --- null Type: add_student_bookings
+2020-12-15 03:16:24--- ERROR --- null Type: add_student_bookings--
+2020-12-15 03:16:38--- INFO --- [{"id":"10","student_id":"990077","tookan_id":"31225378","booking_date":"2021-02-25 10:00:00","instructor":"861268","job_id":"173403458","status":"1"}] Type: get_student_bookings
+2020-12-15 03:17:06--- INFO --- "array" Type: READ student agents
+2020-12-15 03:17:06--- INFO --- ["861268"] Type: add_student_bookings
+2020-12-15 03:17:06--- INFO --- "990077" Type: get student
+2020-12-15 03:17:08--- INFO --- {"success":true,"agent_id":"861268","job_id":174297224} Type: add_student_bookings--task
+2020-12-15 03:17:08--- INFO --- {"student_id":"990077","tookan_id":"31225378","booking_date":"2020-12-15 11:00:00","instructor":"861268","job_id":174297224,"status":1} Type: check data
+2020-12-15 03:17:08--- INFO --- 1 Type: save_student_booking
+2020-12-15 03:17:50--- INFO --- "array" Type: READ student agents
+2020-12-15 03:17:50--- INFO --- ["861268"] Type: add_student_bookings
+2020-12-15 03:17:50--- INFO --- "990077" Type: get student
+2020-12-15 03:17:52--- INFO --- {"success":true,"agent_id":"861268","job_id":174297376} Type: add_student_bookings--task
+2020-12-15 03:17:52--- INFO --- {"student_id":"990077","tookan_id":"31225378","booking_date":"2020-12-16 11:00:00","instructor":"861268","job_id":174297376,"status":1} Type: check data
+2020-12-15 03:17:52--- INFO --- 1 Type: save_student_booking
+2020-12-15 03:36:52--- INFO --- [{"id":"10","student_id":"990077","tookan_id":"31225378","booking_date":"2021-02-25 10:00:00","instructor":"861268","job_id":"173403458","status":"1"},{"id":"11","student_id":"990077","tookan_id":"31225378","booking_date":"2020-12-15 11:00:00","instructor":"861268","job_id":"174297224","status":"1"},{"id":"12","student_id":"990077","tookan_id":"31225378","booking_date":"2020-12-16 11:00:00","instructor":"861268","job_id":"174297376","status":"1"}] Type: get_student_bookings
+2020-12-15 03:37:00--- INFO --- [{"id":"10","student_id":"990077","tookan_id":"31225378","booking_date":"2021-02-25 10:00:00","instructor":"861268","job_id":"173403458","status":"1"},{"id":"11","student_id":"990077","tookan_id":"31225378","booking_date":"2020-12-15 11:00:00","instructor":"861268","job_id":"174297224","status":"1"},{"id":"12","student_id":"990077","tookan_id":"31225378","booking_date":"2020-12-16 11:00:00","instructor":"861268","job_id":"174297376","status":"1"}] Type: get_all_bookings
+2020-12-15 03:37:00--- INFO --- {"id":"6","instructor_id":"861268","inst_name":"Mahalingam N","latitude":"43.5413470","longitude":"-79.7166538","booking_ids":null} Type: render_page
+2020-12-15 03:37:00--- INFO --- {"id":"10","student_id":"990077","tookan_id":"31225378","booking_date":"2021-02-25 10:00:00","instructor":"861268","job_id":"173403458","status":"Pending","instructor_name":"Mahalingam N","cancel":true} Type: render_pagebooking
+2020-12-15 03:37:00--- INFO --- {"id":"6","instructor_id":"861268","inst_name":"Mahalingam N","latitude":"43.5413470","longitude":"-79.7166538","booking_ids":null} Type: render_page
+2020-12-15 03:37:00--- INFO --- {"id":"11","student_id":"990077","tookan_id":"31225378","booking_date":"2020-12-15 11:00:00","instructor":"861268","job_id":"174297224","status":"Pending","instructor_name":"Mahalingam N","cancel":true} Type: render_pagebooking
+2020-12-15 03:37:00--- INFO --- {"id":"6","instructor_id":"861268","inst_name":"Mahalingam N","latitude":"43.5413470","longitude":"-79.7166538","booking_ids":null} Type: render_page
+2020-12-15 03:37:00--- INFO --- {"id":"12","student_id":"990077","tookan_id":"31225378","booking_date":"2020-12-16 11:00:00","instructor":"861268","job_id":"174297376","status":"Pending","instructor_name":"Mahalingam N","cancel":true} Type: render_pagebooking
+2020-12-16 00:01:32--- INFO --- [] Type: get_student_bookings
+2020-12-16 00:12:33--- INFO --- [{"id":"10","student_id":"990077","tookan_id":"31225378","booking_date":"2021-02-25 10:00:00","instructor":"861268","job_id":"173403458","status":"1"},{"id":"11","student_id":"990077","tookan_id":"31225378","booking_date":"2020-12-15 11:00:00","instructor":"861268","job_id":"174297224","status":"1"},{"id":"12","student_id":"990077","tookan_id":"31225378","booking_date":"2020-12-16 11:00:00","instructor":"861268","job_id":"174297376","status":"1"}] Type: get_all_bookings
+2020-12-16 00:12:33--- INFO --- {"id":"6","instructor_id":"861268","inst_name":"Mahalingam N","latitude":"43.5413470","longitude":"-79.7166538","booking_ids":null} Type: render_page
+2020-12-16 00:12:33--- INFO --- {"id":"10","student_id":"990077","tookan_id":"31225378","booking_date":"2021-02-25 10:00:00","instructor":"861268","job_id":"173403458","status":"Pending","instructor_name":"Mahalingam N","cancel":true} Type: render_pagebooking
+2020-12-16 00:12:33--- INFO --- {"id":"6","instructor_id":"861268","inst_name":"Mahalingam N","latitude":"43.5413470","longitude":"-79.7166538","booking_ids":null} Type: render_page
+2020-12-16 00:12:33--- INFO --- {"id":"11","student_id":"990077","tookan_id":"31225378","booking_date":"2020-12-15 11:00:00","instructor":"861268","job_id":"174297224","status":"Pending","instructor_name":"Mahalingam N","cancel":true} Type: render_pagebooking
+2020-12-16 00:12:33--- INFO --- {"id":"6","instructor_id":"861268","inst_name":"Mahalingam N","latitude":"43.5413470","longitude":"-79.7166538","booking_ids":null} Type: render_page
+2020-12-16 00:12:33--- INFO --- {"id":"12","student_id":"990077","tookan_id":"31225378","booking_date":"2020-12-16 11:00:00","instructor":"861268","job_id":"174297376","status":"Pending","instructor_name":"Mahalingam N","cancel":true} Type: render_pagebooking
+2020-12-16 00:13:06--- INFO --- [{"id":"10","student_id":"990077","tookan_id":"31225378","booking_date":"2021-02-25 10:00:00","instructor":"861268","job_id":"173403458","status":"1"},{"id":"11","student_id":"990077","tookan_id":"31225378","booking_date":"2020-12-15 11:00:00","instructor":"861268","job_id":"174297224","status":"1"},{"id":"12","student_id":"990077","tookan_id":"31225378","booking_date":"2020-12-16 11:00:00","instructor":"861268","job_id":"174297376","status":"1"}] Type: get_student_bookings
+2020-12-16 01:07:07--- INFO --- [] Type: get_student_bookings
+2020-12-16 01:26:45--- INFO --- [] Type: get_student_bookings
+2020-12-16 01:28:21--- INFO --- [] Type: get_student_bookings
+2020-12-16 01:34:41--- INFO --- "array" Type: READ student agents
+2020-12-16 01:34:41--- INFO --- ["861268"] Type: add_student_bookings
+2020-12-16 01:34:41--- INFO --- "990082" Type: get student
+2020-12-16 01:34:43--- INFO --- {"success":true,"agent_id":"861268","job_id":174698402} Type: add_student_bookings--task
+2020-12-16 01:34:43--- INFO --- {"student_id":"990082","tookan_id":"31358318","booking_date":"2020-12-16 12:00:00","instructor":"861268","job_id":174698402,"status":1} Type: check data
+2020-12-16 01:34:43--- INFO --- 1 Type: save_student_booking
+2020-12-16 01:47:07--- INFO --- [{"id":"13","student_id":"990082","tookan_id":"31358318","booking_date":"2020-12-16 12:00:00","instructor":"861268","job_id":"174698402","status":"1"}] Type: get_student_bookings
+2020-12-16 01:49:32--- INFO --- [] Type: get_student_bookings
+2020-12-16 01:51:37--- INFO --- [{"id":"13","student_id":"990082","tookan_id":"31358318","booking_date":"2020-12-16 12:00:00","instructor":"861268","job_id":"174698402","status":"1"}] Type: get_student_bookings
+2020-12-16 01:51:54--- INFO --- [{"id":"13","student_id":"990082","tookan_id":"31358318","booking_date":"2020-12-16 12:00:00","instructor":"861268","job_id":"174698402","status":"1"}] Type: get_student_bookings
+2020-12-16 01:52:06--- INFO --- [{"id":"13","student_id":"990082","tookan_id":"31358318","booking_date":"2020-12-16 12:00:00","instructor":"861268","job_id":"174698402","status":"1"}] Type: get_student_bookings
+2020-12-16 01:54:34--- INFO --- [{"id":"13","student_id":"990082","tookan_id":"31358318","booking_date":"2020-12-16 12:00:00","instructor":"861268","job_id":"174698402","status":"1"}] Type: get_student_bookings
+2020-12-16 01:54:47--- INFO --- "174698402" Type: delete_booking
+2020-12-16 02:00:10--- INFO --- [{"id":"10","student_id":"990077","tookan_id":"31225378","booking_date":"2021-02-25 10:00:00","instructor":"861268","job_id":"173403458","status":"1"},{"id":"11","student_id":"990077","tookan_id":"31225378","booking_date":"2020-12-15 11:00:00","instructor":"861268","job_id":"174297224","status":"1"},{"id":"12","student_id":"990077","tookan_id":"31225378","booking_date":"2020-12-16 11:00:00","instructor":"861268","job_id":"174297376","status":"1"}] Type: get_all_bookings
+2020-12-16 02:00:10--- INFO --- {"id":"6","instructor_id":"861268","inst_name":"Mahalingam N","latitude":"43.5413470","longitude":"-79.7166538","booking_ids":null} Type: render_page
+2020-12-16 02:00:10--- INFO --- {"id":"10","student_id":"990077","tookan_id":"31225378","booking_date":"2021-02-25 10:00:00","instructor":"861268","job_id":"173403458","status":"Pending","instructor_name":"Mahalingam N","cancel":true} Type: render_pagebooking
+2020-12-16 02:00:10--- INFO --- {"id":"6","instructor_id":"861268","inst_name":"Mahalingam N","latitude":"43.5413470","longitude":"-79.7166538","booking_ids":null} Type: render_page
+2020-12-16 02:00:10--- INFO --- {"id":"11","student_id":"990077","tookan_id":"31225378","booking_date":"2020-12-15 11:00:00","instructor":"861268","job_id":"174297224","status":"Pending","instructor_name":"Mahalingam N","cancel":true} Type: render_pagebooking
+2020-12-16 02:00:10--- INFO --- {"id":"6","instructor_id":"861268","inst_name":"Mahalingam N","latitude":"43.5413470","longitude":"-79.7166538","booking_ids":null} Type: render_page
+2020-12-16 02:00:10--- INFO --- {"id":"12","student_id":"990077","tookan_id":"31225378","booking_date":"2020-12-16 11:00:00","instructor":"861268","job_id":"174297376","status":"Pending","instructor_name":"Mahalingam N","cancel":true} Type: render_pagebooking
+2020-12-16 02:03:31--- INFO --- [] Type: get_student_bookings
+2020-12-16 02:04:16--- INFO --- [] Type: get_student_bookings
+2020-12-16 02:06:30--- INFO --- [] Type: get_student_bookings
+2020-12-16 02:12:24--- INFO --- [] Type: get_student_bookings
+2020-12-16 02:12:33--- INFO --- [] Type: get_student_bookings
+2020-12-16 02:13:01--- INFO --- [] Type: get_student_bookings
+2020-12-16 02:13:19--- INFO --- [] Type: get_student_bookings
+2020-12-16 02:19:04--- INFO --- [] Type: get_student_bookings
+2020-12-16 02:19:24--- INFO --- "array" Type: READ student agents
+2020-12-16 02:19:24--- INFO --- ["861268"] Type: add_student_bookings
+2020-12-16 02:19:24--- INFO --- "990082" Type: get student
+2020-12-16 02:19:26--- INFO --- {"success":true,"agent_id":"861268","job_id":174708191} Type: add_student_bookings--task
+2020-12-16 02:19:26--- INFO --- {"student_id":"990082","tookan_id":"31358318","booking_date":"2020-12-16 12:00:00","instructor":"861268","job_id":174708191,"status":1} Type: check data
+2020-12-16 02:19:26--- INFO --- 1 Type: save_student_booking
+2020-12-16 02:20:18--- INFO --- [{"id":"10","student_id":"990077","tookan_id":"31225378","booking_date":"2021-02-25 10:00:00","instructor":"861268","job_id":"173403458","status":"1"},{"id":"11","student_id":"990077","tookan_id":"31225378","booking_date":"2020-12-15 11:00:00","instructor":"861268","job_id":"174297224","status":"1"},{"id":"12","student_id":"990077","tookan_id":"31225378","booking_date":"2020-12-16 11:00:00","instructor":"861268","job_id":"174297376","status":"1"},{"id":"14","student_id":"990082","tookan_id":"31358318","booking_date":"2020-12-16 12:00:00","instructor":"861268","job_id":"174708191","status":"1"}] Type: get_all_bookings
+2020-12-16 02:20:18--- INFO --- {"id":"6","instructor_id":"861268","inst_name":"Mahalingam N","latitude":"43.5413470","longitude":"-79.7166538","booking_ids":null} Type: render_page
+2020-12-16 02:20:18--- INFO --- {"id":"10","student_id":"990077","tookan_id":"31225378","booking_date":"2021-02-25 10:00:00","instructor":"861268","job_id":"173403458","status":"Pending","instructor_name":"Mahalingam N","cancel":true} Type: render_pagebooking
+2020-12-16 02:20:18--- INFO --- {"id":"6","instructor_id":"861268","inst_name":"Mahalingam N","latitude":"43.5413470","longitude":"-79.7166538","booking_ids":null} Type: render_page
+2020-12-16 02:20:18--- INFO --- {"id":"11","student_id":"990077","tookan_id":"31225378","booking_date":"2020-12-15 11:00:00","instructor":"861268","job_id":"174297224","status":"Pending","instructor_name":"Mahalingam N","cancel":true} Type: render_pagebooking
+2020-12-16 02:20:18--- INFO --- {"id":"6","instructor_id":"861268","inst_name":"Mahalingam N","latitude":"43.5413470","longitude":"-79.7166538","booking_ids":null} Type: render_page
+2020-12-16 02:20:18--- INFO --- {"id":"12","student_id":"990077","tookan_id":"31225378","booking_date":"2020-12-16 11:00:00","instructor":"861268","job_id":"174297376","status":"Pending","instructor_name":"Mahalingam N","cancel":true} Type: render_pagebooking
+2020-12-16 02:20:18--- INFO --- {"id":"6","instructor_id":"861268","inst_name":"Mahalingam N","latitude":"43.5413470","longitude":"-79.7166538","booking_ids":null} Type: render_page
+2020-12-16 02:20:18--- INFO --- {"id":"14","student_id":"990082","tookan_id":"31358318","booking_date":"2020-12-16 12:00:00","instructor":"861268","job_id":"174708191","status":"Pending","instructor_name":"Mahalingam N","cancel":true} Type: render_pagebooking
+2020-12-16 02:21:04--- INFO --- "174708191" Type: delete_booking
+2020-12-16 02:21:20--- INFO --- [{"id":"10","student_id":"990077","tookan_id":"31225378","booking_date":"2021-02-25 10:00:00","instructor":"861268","job_id":"173403458","status":"1"},{"id":"11","student_id":"990077","tookan_id":"31225378","booking_date":"2020-12-15 11:00:00","instructor":"861268","job_id":"174297224","status":"1"},{"id":"12","student_id":"990077","tookan_id":"31225378","booking_date":"2020-12-16 11:00:00","instructor":"861268","job_id":"174297376","status":"1"}] Type: get_all_bookings
+2020-12-16 02:21:20--- INFO --- {"id":"6","instructor_id":"861268","inst_name":"Mahalingam N","latitude":"43.5413470","longitude":"-79.7166538","booking_ids":null} Type: render_page
+2020-12-16 02:21:20--- INFO --- {"id":"10","student_id":"990077","tookan_id":"31225378","booking_date":"2021-02-25 10:00:00","instructor":"861268","job_id":"173403458","status":"Pending","instructor_name":"Mahalingam N","cancel":true} Type: render_pagebooking
+2020-12-16 02:21:20--- INFO --- {"id":"6","instructor_id":"861268","inst_name":"Mahalingam N","latitude":"43.5413470","longitude":"-79.7166538","booking_ids":null} Type: render_page
+2020-12-16 02:21:20--- INFO --- {"id":"11","student_id":"990077","tookan_id":"31225378","booking_date":"2020-12-15 11:00:00","instructor":"861268","job_id":"174297224","status":"Pending","instructor_name":"Mahalingam N","cancel":true} Type: render_pagebooking
+2020-12-16 02:21:20--- INFO --- {"id":"6","instructor_id":"861268","inst_name":"Mahalingam N","latitude":"43.5413470","longitude":"-79.7166538","booking_ids":null} Type: render_page
+2020-12-16 02:21:20--- INFO --- {"id":"12","student_id":"990077","tookan_id":"31225378","booking_date":"2020-12-16 11:00:00","instructor":"861268","job_id":"174297376","status":"Pending","instructor_name":"Mahalingam N","cancel":true} Type: render_pagebooking
+2020-12-20 02:36:37--- INFO --- [{"id":"10","student_id":"990077","tookan_id":"31225378","booking_date":"2021-02-25 10:00:00","instructor":"861268","job_id":"173403458","status":"1"},{"id":"11","student_id":"990077","tookan_id":"31225378","booking_date":"2020-12-15 11:00:00","instructor":"861268","job_id":"174297224","status":"1"},{"id":"12","student_id":"990077","tookan_id":"31225378","booking_date":"2020-12-16 11:00:00","instructor":"861268","job_id":"174297376","status":"1"}] Type: get_student_bookings
+2020-12-20 02:42:16--- INFO --- [{"id":"10","student_id":"990077","tookan_id":"31225378","booking_date":"2021-02-25 10:00:00","instructor":"861268","job_id":"173403458","status":"1"},{"id":"11","student_id":"990077","tookan_id":"31225378","booking_date":"2020-12-15 11:00:00","instructor":"861268","job_id":"174297224","status":"1"},{"id":"12","student_id":"990077","tookan_id":"31225378","booking_date":"2020-12-16 11:00:00","instructor":"861268","job_id":"174297376","status":"1"}] Type: get_student_bookings
+2020-12-20 02:48:25--- INFO --- [{"id":"10","student_id":"990077","tookan_id":"31225378","booking_date":"2021-02-25 10:00:00","instructor":"861268","job_id":"173403458","status":"1"},{"id":"11","student_id":"990077","tookan_id":"31225378","booking_date":"2020-12-15 11:00:00","instructor":"861268","job_id":"174297224","status":"1"},{"id":"12","student_id":"990077","tookan_id":"31225378","booking_date":"2020-12-16 11:00:00","instructor":"861268","job_id":"174297376","status":"1"}] Type: get_student_bookings
+2020-12-20 02:57:09--- INFO --- [{"id":"10","student_id":"990077","tookan_id":"31225378","booking_date":"2021-02-25 10:00:00","instructor":"861268","job_id":"173403458","status":"1"},{"id":"11","student_id":"990077","tookan_id":"31225378","booking_date":"2020-12-15 11:00:00","instructor":"861268","job_id":"174297224","status":"1"},{"id":"12","student_id":"990077","tookan_id":"31225378","booking_date":"2020-12-16 11:00:00","instructor":"861268","job_id":"174297376","status":"1"}] Type: get_student_bookings
+2020-12-20 02:58:23--- INFO --- [{"id":"10","student_id":"990077","tookan_id":"31225378","booking_date":"2021-02-25 10:00:00","instructor":"861268","job_id":"173403458","status":"1"},{"id":"11","student_id":"990077","tookan_id":"31225378","booking_date":"2020-12-15 11:00:00","instructor":"861268","job_id":"174297224","status":"1"},{"id":"12","student_id":"990077","tookan_id":"31225378","booking_date":"2020-12-16 11:00:00","instructor":"861268","job_id":"174297376","status":"1"}] Type: get_student_bookings
+2020-12-20 02:58:49--- INFO --- [{"id":"10","student_id":"990077","tookan_id":"31225378","booking_date":"2021-02-25 10:00:00","instructor":"861268","job_id":"173403458","status":"1"},{"id":"11","student_id":"990077","tookan_id":"31225378","booking_date":"2020-12-15 11:00:00","instructor":"861268","job_id":"174297224","status":"1"},{"id":"12","student_id":"990077","tookan_id":"31225378","booking_date":"2020-12-16 11:00:00","instructor":"861268","job_id":"174297376","status":"1"}] Type: get_student_bookings
+2020-12-20 02:59:49--- INFO --- [{"id":"10","student_id":"990077","tookan_id":"31225378","booking_date":"2021-02-25 10:00:00","instructor":"861268","job_id":"173403458","status":"1"},{"id":"11","student_id":"990077","tookan_id":"31225378","booking_date":"2020-12-15 11:00:00","instructor":"861268","job_id":"174297224","status":"1"},{"id":"12","student_id":"990077","tookan_id":"31225378","booking_date":"2020-12-16 11:00:00","instructor":"861268","job_id":"174297376","status":"1"}] Type: get_student_bookings
+2020-12-20 03:00:11--- INFO --- [{"id":"10","student_id":"990077","tookan_id":"31225378","booking_date":"2021-02-25 10:00:00","instructor":"861268","job_id":"173403458","status":"1"},{"id":"11","student_id":"990077","tookan_id":"31225378","booking_date":"2020-12-15 11:00:00","instructor":"861268","job_id":"174297224","status":"1"},{"id":"12","student_id":"990077","tookan_id":"31225378","booking_date":"2020-12-16 11:00:00","instructor":"861268","job_id":"174297376","status":"1"}] Type: get_student_bookings
+2020-12-20 20:24:17--- INFO --- [] Type: get_student_bookings
+2020-12-20 20:24:21--- INFO --- [] Type: get_student_bookings
+2020-12-20 20:28:17--- INFO --- [] Type: get_student_bookings
+2020-12-20 20:28:41--- INFO --- [] Type: get_student_bookings
+2020-12-20 20:37:04--- INFO --- [] Type: get_student_bookings
+2020-12-20 20:42:22--- INFO --- [] Type: get_student_bookings
+2020-12-20 20:43:01--- INFO --- [] Type: get_student_bookings
+2020-12-20 20:43:16--- INFO --- [] Type: get_student_bookings
+2020-12-20 20:44:39--- INFO --- [] Type: get_student_bookings
+2020-12-20 20:49:49--- INFO --- [] Type: get_student_bookings
+2020-12-20 20:53:59--- INFO --- [] Type: get_student_bookings
+2020-12-20 20:56:39--- INFO --- [] Type: get_student_bookings
+2020-12-20 20:56:54--- INFO --- [] Type: get_student_bookings
+2020-12-20 20:59:16--- INFO --- [] Type: get_student_bookings
+2020-12-23 02:34:55--- INFO --- [] Type: get_student_bookings
+2020-12-23 02:35:02--- INFO --- [] Type: get_student_bookings

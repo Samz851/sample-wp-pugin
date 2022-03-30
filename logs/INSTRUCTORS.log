@@ -1,0 +1,108 @@
+2021-03-03 02:21:04--- INFO --- [] Type: render_page
+2021-03-03 02:21:12--- INFO --- 806826 Type: count_agent_bookings SQL
+2021-03-03 02:21:12--- INFO --- "0" Type: count_agent_bookings
+2021-03-03 02:21:12--- INFO --- 861266 Type: count_agent_bookings SQL
+2021-03-03 02:21:12--- INFO --- "0" Type: count_agent_bookings
+2021-03-03 02:21:12--- INFO --- 861268 Type: count_agent_bookings SQL
+2021-03-03 02:21:12--- INFO --- "0" Type: count_agent_bookings
+2021-03-03 02:21:12--- INFO --- 911715 Type: count_agent_bookings SQL
+2021-03-03 02:21:12--- INFO --- "0" Type: count_agent_bookings
+2021-03-03 02:21:12--- INFO --- 911717 Type: count_agent_bookings SQL
+2021-03-03 02:21:12--- INFO --- "0" Type: count_agent_bookings
+2021-03-03 02:21:12--- INFO --- 911740 Type: count_agent_bookings SQL
+2021-03-03 02:21:12--- INFO --- "0" Type: count_agent_bookings
+2021-03-03 02:21:12--- INFO --- 917826 Type: count_agent_bookings SQL
+2021-03-03 02:21:12--- INFO --- "0" Type: count_agent_bookings
+2021-03-03 02:21:12--- INFO --- 860291 Type: count_agent_bookings SQL
+2021-03-03 02:21:12--- INFO --- "0" Type: count_agent_bookings
+2021-03-03 02:21:12--- INFO --- [{"id":"1","instructor_id":"806826","inst_name":"Satyen Rajendra","latitude":"43.4015763","longitude":"-79.7139153","booking_ids":null,"type":"captive","count":"0","bookings":false,"name":"Satyen Rajendra"},{"id":"2","instructor_id":"861266","inst_name":"Goberdhan Neil Michael","latitude":"37.7922841","longitude":"-122.4001490","booking_ids":null,"type":"captive","count":"0","bookings":false,"name":"Goberdhan Neil Michael"},{"id":"3","instructor_id":"861268","inst_name":"Mahalingam N","latitude":"43.5413470","longitude":"-79.7166538","booking_ids":null,"type":"captive","count":"0","bookings":false,"name":"Mahalingam N"},{"id":"4","instructor_id":"911715","inst_name":"Cali Driver","latitude":"43.6053180","longitude":"-79.5895180","booking_ids":null,"type":"captive","count":"0","bookings":false,"name":"Cali Driver"},{"id":"5","instructor_id":"911717","inst_name":"hamilton driver","latitude":"43.6053180","longitude":"-79.5895180","booking_ids":null,"type":"captive","count":"0","bookings":false,"name":"hamilton driver"},{"id":"6","instructor_id":"911740","inst_name":"Barrie Driver","latitude":"43.6053180","longitude":"-79.5895180","booking_ids":null,"type":"captive","count":"0","bookings":false,"name":"Barrie Driver"},{"id":"7","instructor_id":"917826","inst_name":"Dinesh Sris","latitude":"43.5413832","longitude":"-79.7166840","booking_ids":null,"type":"captive","count":"0","bookings":false,"name":"Dinesh Sris"},{"id":"8","instructor_id":"860291","inst_name":"Samer Alotaibi","latitude":"43.5571351","longitude":"-79.7072675","booking_ids":null,"type":"freelance","count":"0","bookings":false,"name":"Samer Alotaibi"}] Type: render_page
+2021-03-03 02:23:27--- INFO --- [] Type: render_page
+2021-03-03 02:25:40--- INFO --- [] Type: render_page
+2021-03-03 02:29:12--- INFO --- [] Type: render_page
+2021-03-03 02:30:41--- INFO --- [] Type: render_page
+2021-03-03 02:31:22--- INFO --- 806826 Type: count_agent_bookings SQL
+2021-03-03 02:31:22--- INFO --- "0" Type: count_agent_bookings
+2021-03-03 02:31:22--- INFO --- 861266 Type: count_agent_bookings SQL
+2021-03-03 02:31:22--- INFO --- "0" Type: count_agent_bookings
+2021-03-03 02:31:22--- INFO --- 861268 Type: count_agent_bookings SQL
+2021-03-03 02:31:22--- INFO --- "0" Type: count_agent_bookings
+2021-03-03 02:31:22--- INFO --- 911715 Type: count_agent_bookings SQL
+2021-03-03 02:31:22--- INFO --- "0" Type: count_agent_bookings
+2021-03-03 02:31:22--- INFO --- 911717 Type: count_agent_bookings SQL
+2021-03-03 02:31:22--- INFO --- "0" Type: count_agent_bookings
+2021-03-03 02:31:22--- INFO --- 911740 Type: count_agent_bookings SQL
+2021-03-03 02:31:22--- INFO --- "0" Type: count_agent_bookings
+2021-03-03 02:31:22--- INFO --- 917826 Type: count_agent_bookings SQL
+2021-03-03 02:31:22--- INFO --- "0" Type: count_agent_bookings
+2021-03-03 02:31:22--- INFO --- [{"id":"1","instructor_id":"806826","inst_name":"Satyen Rajendra","latitude":"43.4015763","longitude":"-79.7139153","booking_ids":null,"type":"captive","count":"0","bookings":false,"name":"Satyen Rajendra"},{"id":"2","instructor_id":"861266","inst_name":"Goberdhan Neil Michael","latitude":"37.7922841","longitude":"-122.4001490","booking_ids":null,"type":"captive","count":"0","bookings":false,"name":"Goberdhan Neil Michael"},{"id":"3","instructor_id":"861268","inst_name":"Mahalingam N","latitude":"43.5413470","longitude":"-79.7166538","booking_ids":null,"type":"captive","count":"0","bookings":false,"name":"Mahalingam N"},{"id":"4","instructor_id":"911715","inst_name":"Cali Driver","latitude":"43.6053180","longitude":"-79.5895180","booking_ids":null,"type":"captive","count":"0","bookings":false,"name":"Cali Driver"},{"id":"5","instructor_id":"911717","inst_name":"hamilton driver","latitude":"43.6053180","longitude":"-79.5895180","booking_ids":null,"type":"captive","count":"0","bookings":false,"name":"hamilton driver"},{"id":"6","instructor_id":"911740","inst_name":"Barrie Driver","latitude":"43.6053180","longitude":"-79.5895180","booking_ids":null,"type":"captive","count":"0","bookings":false,"name":"Barrie Driver"},{"id":"7","instructor_id":"917826","inst_name":"Dinesh Sris","latitude":"43.5413832","longitude":"-79.7166840","booking_ids":null,"type":"captive","count":"0","bookings":false,"name":"Dinesh Sris"}] Type: render_page
+2021-03-03 02:31:59--- INFO --- 806826 Type: count_agent_bookings SQL
+2021-03-03 02:31:59--- INFO --- "0" Type: count_agent_bookings
+2021-03-03 02:31:59--- INFO --- 861266 Type: count_agent_bookings SQL
+2021-03-03 02:31:59--- INFO --- "0" Type: count_agent_bookings
+2021-03-03 02:31:59--- INFO --- 861268 Type: count_agent_bookings SQL
+2021-03-03 02:31:59--- INFO --- "0" Type: count_agent_bookings
+2021-03-03 02:31:59--- INFO --- 911715 Type: count_agent_bookings SQL
+2021-03-03 02:31:59--- INFO --- "0" Type: count_agent_bookings
+2021-03-03 02:31:59--- INFO --- 911717 Type: count_agent_bookings SQL
+2021-03-03 02:31:59--- INFO --- "0" Type: count_agent_bookings
+2021-03-03 02:31:59--- INFO --- 911740 Type: count_agent_bookings SQL
+2021-03-03 02:31:59--- INFO --- "0" Type: count_agent_bookings
+2021-03-03 02:31:59--- INFO --- 917826 Type: count_agent_bookings SQL
+2021-03-03 02:31:59--- INFO --- "0" Type: count_agent_bookings
+2021-03-03 02:31:59--- INFO --- 860291 Type: count_agent_bookings SQL
+2021-03-03 02:31:59--- INFO --- "0" Type: count_agent_bookings
+2021-03-03 02:31:59--- INFO --- [{"id":"1","instructor_id":"806826","inst_name":"Satyen Rajendra","latitude":"43.4015763","longitude":"-79.7139153","booking_ids":null,"type":"captive","count":"0","bookings":false,"name":"Satyen Rajendra"},{"id":"2","instructor_id":"861266","inst_name":"Goberdhan Neil Michael","latitude":"37.7922841","longitude":"-122.4001490","booking_ids":null,"type":"captive","count":"0","bookings":false,"name":"Goberdhan Neil Michael"},{"id":"3","instructor_id":"861268","inst_name":"Mahalingam N","latitude":"43.5413470","longitude":"-79.7166538","booking_ids":null,"type":"captive","count":"0","bookings":false,"name":"Mahalingam N"},{"id":"4","instructor_id":"911715","inst_name":"Cali Driver","latitude":"43.6053180","longitude":"-79.5895180","booking_ids":null,"type":"captive","count":"0","bookings":false,"name":"Cali Driver"},{"id":"5","instructor_id":"911717","inst_name":"hamilton driver","latitude":"43.6053180","longitude":"-79.5895180","booking_ids":null,"type":"captive","count":"0","bookings":false,"name":"hamilton driver"},{"id":"6","instructor_id":"911740","inst_name":"Barrie Driver","latitude":"43.6053180","longitude":"-79.5895180","booking_ids":null,"type":"captive","count":"0","bookings":false,"name":"Barrie Driver"},{"id":"7","instructor_id":"917826","inst_name":"Dinesh Sris","latitude":"43.5413832","longitude":"-79.7166840","booking_ids":null,"type":"captive","count":"0","bookings":false,"name":"Dinesh Sris"},{"id":"8","instructor_id":"860291","inst_name":"Samer Alotaibi","latitude":"43.5571351","longitude":"-79.7072675","booking_ids":null,"type":"freelance","count":"0","bookings":false,"name":"Samer Alotaibi"}] Type: render_page
+2021-03-03 02:40:36--- INFO --- {"distance":108.86088676544296,"coords":{"lat":44.3805846,"long":-79.71181039999999},"$agent":{"id":"1","instructor_id":"806826","inst_name":"Satyen Rajendra","latitude":"43.4015763","longitude":"-79.7139153","booking_ids":null,"type":"captive"}} Type: get_nearest_instructor
+2021-03-03 02:40:36--- INFO --- {"distance":3609.5047462319108,"coords":{"lat":44.3805846,"long":-79.71181039999999},"$agent":{"id":"2","instructor_id":"861266","inst_name":"Goberdhan Neil Michael","latitude":"37.7922841","longitude":"-122.4001490","booking_ids":null,"type":"captive"}} Type: get_nearest_instructor
+2021-03-03 02:40:36--- INFO --- {"distance":93.31976852279045,"coords":{"lat":44.3805846,"long":-79.71181039999999},"$agent":{"id":"3","instructor_id":"861268","inst_name":"Mahalingam N","latitude":"43.5413470","longitude":"-79.7166538","booking_ids":null,"type":"captive"}} Type: get_nearest_instructor
+2021-03-03 02:40:36--- INFO --- {"distance":86.75900864272823,"coords":{"lat":44.3805846,"long":-79.71181039999999},"$agent":{"id":"4","instructor_id":"911715","inst_name":"Cali Driver","latitude":"43.6053180","longitude":"-79.5895180","booking_ids":null,"type":"captive"}} Type: get_nearest_instructor
+2021-03-03 02:40:36--- INFO --- {"distance":86.75900864272823,"coords":{"lat":44.3805846,"long":-79.71181039999999},"$agent":{"id":"5","instructor_id":"911717","inst_name":"hamilton driver","latitude":"43.6053180","longitude":"-79.5895180","booking_ids":null,"type":"captive"}} Type: get_nearest_instructor
+2021-03-03 02:40:36--- INFO --- {"distance":86.75900864272823,"coords":{"lat":44.3805846,"long":-79.71181039999999},"$agent":{"id":"6","instructor_id":"911740","inst_name":"Barrie Driver","latitude":"43.6053180","longitude":"-79.5895180","booking_ids":null,"type":"captive"}} Type: get_nearest_instructor
+2021-03-03 02:40:36--- INFO --- {"distance":93.31575337310828,"coords":{"lat":44.3805846,"long":-79.71181039999999},"$agent":{"id":"7","instructor_id":"917826","inst_name":"Dinesh Sris","latitude":"43.5413832","longitude":"-79.7166840","booking_ids":null,"type":"captive"}} Type: get_nearest_instructor
+2021-03-03 02:40:36--- INFO --- {"distance":91.56412848357819,"coords":{"lat":44.3805846,"long":-79.71181039999999},"$agent":{"id":"8","instructor_id":"860291","inst_name":"Samer Alotaibi","latitude":"43.5571351","longitude":"-79.7072675","booking_ids":null,"type":"freelance"}} Type: get_nearest_instructor
+2021-03-03 02:50:11--- INFO --- [] Type: render_page
+2021-03-03 02:50:22--- INFO --- [] Type: render_page
+2021-03-03 02:55:03--- INFO --- [] Type: render_page
+2021-03-03 02:56:35--- INFO --- [] Type: render_page
+2021-03-03 03:00:23--- INFO --- [] Type: render_page
+2021-03-03 03:04:14--- INFO --- 806826 Type: count_agent_bookings SQL
+2021-03-03 03:04:14--- INFO --- "0" Type: count_agent_bookings
+2021-03-03 03:04:14--- INFO --- 861266 Type: count_agent_bookings SQL
+2021-03-03 03:04:14--- INFO --- "0" Type: count_agent_bookings
+2021-03-03 03:04:14--- INFO --- 861268 Type: count_agent_bookings SQL
+2021-03-03 03:04:14--- INFO --- "0" Type: count_agent_bookings
+2021-03-03 03:04:14--- INFO --- 911715 Type: count_agent_bookings SQL
+2021-03-03 03:04:14--- INFO --- "0" Type: count_agent_bookings
+2021-03-03 03:04:14--- INFO --- 911717 Type: count_agent_bookings SQL
+2021-03-03 03:04:14--- INFO --- "0" Type: count_agent_bookings
+2021-03-03 03:04:14--- INFO --- 911740 Type: count_agent_bookings SQL
+2021-03-03 03:04:14--- INFO --- "0" Type: count_agent_bookings
+2021-03-03 03:04:14--- INFO --- 917826 Type: count_agent_bookings SQL
+2021-03-03 03:04:14--- INFO --- "0" Type: count_agent_bookings
+2021-03-03 03:04:14--- INFO --- 860291 Type: count_agent_bookings SQL
+2021-03-03 03:04:14--- INFO --- "0" Type: count_agent_bookings
+2021-03-03 03:04:14--- INFO --- [{"id":"1","instructor_id":"806826","inst_name":"Satyen Rajendra","latitude":"43.4014580","longitude":"-79.7138540","booking_ids":null,"type":"captive","count":"0","bookings":false,"name":"Satyen Rajendra"},{"id":"2","instructor_id":"861266","inst_name":"Goberdhan Neil Michael","latitude":"43.8309695","longitude":"-79.1643700","booking_ids":null,"type":"captive","count":"0","bookings":false,"name":"Goberdhan Neil Michael"},{"id":"3","instructor_id":"861268","inst_name":"Mahalingam N","latitude":"43.5762110","longitude":"-79.6197040","booking_ids":null,"type":"captive","count":"0","bookings":false,"name":"Mahalingam N"},{"id":"4","instructor_id":"911715","inst_name":"Cali Driver","latitude":"37.3839030","longitude":"-122.0884800","booking_ids":null,"type":"captive","count":"0","bookings":false,"name":"Cali Driver"},{"id":"5","instructor_id":"911717","inst_name":"hamilton driver","latitude":"43.2617510","longitude":"-79.9068740","booking_ids":null,"type":"captive","count":"0","bookings":false,"name":"hamilton driver"},{"id":"6","instructor_id":"911740","inst_name":"Barrie Driver","latitude":"44.3805846","longitude":"-79.7118104","booking_ids":null,"type":"captive","count":"0","bookings":false,"name":"Barrie Driver"},{"id":"7","instructor_id":"917826","inst_name":"Dinesh Sris","latitude":"43.5238080","longitude":"-79.7030090","booking_ids":null,"type":"captive","count":"0","bookings":false,"name":"Dinesh Sris"},{"id":"8","instructor_id":"860291","inst_name":"Samer Alotaibi","latitude":"43.5575847","longitude":"-79.7078440","booking_ids":null,"type":"freelance","count":"0","bookings":false,"name":"Samer Alotaibi"}] Type: render_page
+2021-03-03 03:06:04--- INFO --- {"distance":108.87403361100331,"coords":{"lat":44.3805846,"long":-79.71181039999999},"$agent":{"id":"1","instructor_id":"806826","inst_name":"Satyen Rajendra","latitude":"43.4014580","longitude":"-79.7138540","booking_ids":null,"type":"captive"}} Type: get_nearest_instructor
+2021-03-03 03:06:04--- INFO --- {"distance":75.13632315672993,"coords":{"lat":44.3805846,"long":-79.71181039999999},"$agent":{"id":"2","instructor_id":"861266","inst_name":"Goberdhan Neil Michael","latitude":"43.8309695","longitude":"-79.1643700","booking_ids":null,"type":"captive"}} Type: get_nearest_instructor
+2021-03-03 03:06:04--- INFO --- {"distance":89.74537237247276,"coords":{"lat":44.3805846,"long":-79.71181039999999},"$agent":{"id":"3","instructor_id":"861268","inst_name":"Mahalingam N","latitude":"43.5762110","longitude":"-79.6197040","booking_ids":null,"type":"captive"}} Type: get_nearest_instructor
+2021-03-03 03:06:04--- INFO --- {"distance":3604.4923024614004,"coords":{"lat":44.3805846,"long":-79.71181039999999},"$agent":{"id":"4","instructor_id":"911715","inst_name":"Cali Driver","latitude":"37.3839030","longitude":"-122.0884800","booking_ids":null,"type":"captive"}} Type: get_nearest_instructor
+2021-03-03 03:06:04--- INFO --- {"distance":125.38892271044412,"coords":{"lat":44.3805846,"long":-79.71181039999999},"$agent":{"id":"5","instructor_id":"911717","inst_name":"hamilton driver","latitude":"43.2617510","longitude":"-79.9068740","booking_ids":null,"type":"captive"}} Type: get_nearest_instructor
+2021-03-03 03:06:04--- INFO --- {"distance":1.129366407609776e-12,"coords":{"lat":44.3805846,"long":-79.71181039999999},"$agent":{"id":"6","instructor_id":"911740","inst_name":"Barrie Driver","latitude":"44.3805846","longitude":"-79.7118104","booking_ids":null,"type":"captive"}} Type: get_nearest_instructor
+2021-03-03 03:06:04--- INFO --- {"distance":95.27181627172493,"coords":{"lat":44.3805846,"long":-79.71181039999999},"$agent":{"id":"7","instructor_id":"917826","inst_name":"Dinesh Sris","latitude":"43.5238080","longitude":"-79.7030090","booking_ids":null,"type":"captive"}} Type: get_nearest_instructor
+2021-03-03 03:06:04--- INFO --- {"distance":91.5139639859015,"coords":{"lat":44.3805846,"long":-79.71181039999999},"$agent":{"id":"8","instructor_id":"860291","inst_name":"Samer Alotaibi","latitude":"43.5575847","longitude":"-79.7078440","booking_ids":null,"type":"freelance"}} Type: get_nearest_instructor
+2021-03-04 03:11:46--- INFO --- [] Type: get_all_instructors
+2021-03-04 03:12:31--- INFO --- [[],"freelance"] Type: get_all_instructors
+2021-03-04 03:13:04--- INFO --- [[],"freelance"] Type: get_all_instructors
+2021-03-04 03:17:11--- INFO --- [[{"instructor_id":"860291"}],"freelance"] Type: get_all_instructors
+2021-03-04 03:22:51--- INFO --- [[{"instructor_id":"860291"}],"freelance"] Type: get_all_instructors
+2021-03-04 03:29:35--- INFO --- [[{"instructor_id":"860291"}],"freelance"] Type: get_all_instructors
+2021-03-04 03:32:00--- INFO --- [[{"instructor_id":"860291"}],"freelance"] Type: get_all_instructors
+2021-03-04 03:33:00--- INFO --- [[{"instructor_id":"860291"}],"freelance"] Type: get_all_instructors
+2021-03-04 03:36:37--- INFO --- [[{"instructor_id":"860291"}],"freelance"] Type: get_all_instructors
+2021-03-04 03:37:27--- INFO --- [[{"instructor_id":"860291"}],"freelance"] Type: get_all_instructors
+2021-03-04 03:39:26--- INFO --- [[{"instructor_id":"860291"}],"freelance"] Type: get_all_instructors
+2021-03-04 03:42:30--- INFO --- [[{"instructor_id":"860291"}],"freelance"] Type: get_all_instructors
+2021-03-04 03:46:11--- INFO --- [[{"instructor_id":"860291"}],"freelance"] Type: get_all_instructors
+2021-03-04 03:49:19--- INFO --- [[{"instructor_id":"860291"}],"freelance"] Type: get_all_instructors
+2021-03-05 01:49:13--- INFO --- [[{"instructor_id":"860291"}],"freelance"] Type: get_all_instructors
+2021-03-05 01:49:47--- INFO --- [[{"instructor_id":"860291"}],"freelance"] Type: get_all_instructors

@@ -1,0 +1,72 @@
+<div class="ad-students-page">
+    <div class="ad-students-wrapper">
+        <div class="ad-students-content">
+                <table class="wp-list-table widefat fixed striped">
+                    <thead>
+                        <td>Student ID</td>
+                        <td>Tookan ID</td>
+                        <td>Booking Date</td>
+                        <td>Instructor ID</td>
+                        <td>Instructor Name</td>
+                        <td>Job ID</td>
+                        <td>Status</td>
+                    </thead>
+                    <tbody id="the-list">
+                        {{#bookings }}
+                            {{#.}}
+                            <tr>
+                                <td> {{ student_id }} </td>
+                                <td> {{ tookan_id }} </td>
+                                <td> {{ booking_date }} </td>
+                                <td> {{ instructor }} </td>
+                                <td> {{ instructor_name }} </td>
+                                <td> {{ job_id }} </td>
+                                <td> {{ status }} 
+                                {{#cancel}}
+                                | 
+                                <span class="delete">
+                                    <a href="#" data-ad-booking={{job_id}} data-ad-student={{student_id}} class="delete-booking">Cancel</a>
+                                </span>
+                                {{/cancel}}
+                                </td>
+                            </tr>
+                            {{/.}}
+                        {{/bookings}}
+                    </tbody>
+                    <tfoot>
+                        {{#students_keys}}
+                        <td>{{.}}</td>
+                        {{/students_keys}}
+                    </tfoot>
+                </table>
+            <div>
+            </div>
+        </div>
+        <div class="ad-student-details">
+            <div id="student-card">
+            <a href="#" id="close-student-card"><i class="fa fa-times" aria-hidden="true"></i></a>
+                <table class="wp-list-table widefat fixed striped">
+                    <thead>
+                        <td>Booking Agent</td>
+                        <td>Booking Date/Time</td>
+                        <td>Booking Status</td>
+                    </thead>
+                    <tbody class="the-list">
+                        <tr><td colspan="3" id="empty-bookings">No Bookings</td><tr>
+                    </tbody>
+                </table>
+                <div class="add-booking"><i class="fa fa-plus"></i></div>
+                <div class="add-bookingdate">
+                    <div class='input-group date' id='datetimepicker1'>
+                        <input id="booking-date" type='text' class="form-control" />
+                        <span class="input-group-addon">
+                        <i class="fa fa-calendar" aria-hidden="true"></i>
+                        </span>
+                    </div>
+                    <button id="submit-student-booking">Submit</button>
+                    <div class="booking-confirmation"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

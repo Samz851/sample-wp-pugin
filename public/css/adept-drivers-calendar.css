@@ -1,0 +1,7 @@
+div.ad-booking-calendar table {
+  width: 100%;
+}
+
+div.ad-booking-calendar table thead tr td {
+  background: chartreuse;
+}

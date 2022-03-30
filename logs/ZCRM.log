@@ -1,0 +1,46 @@
+2021-03-01 04:41:07--- INFO --- {"Product_Name":"AUTO-DRAFT","Unit_Price":"","In_Car_Sessions":"","Has_LMS":"","Session_Duration_30_min_Intervals":""} Type: push_product_record
+2021-03-01 04:47:23--- INFO --- {"Product_Name":"AUTO-DRAFT","Unit_Price":"","In_Car_Sessions":"","Has_LMS":"","Session_Duration_30_min_Intervals":""} Type: push_product_record
+2021-03-01 04:47:24--- INFO --- "record added" Type: push_product_record
+2021-03-01 04:48:28--- INFO --- {"Product_Name":"New Product","Unit_Price":"","In_Car_Sessions":"","Has_LMS":"","Session_Duration_30_min_Intervals":""} Type: push_product_record
+2021-03-01 04:48:28--- INFO --- "record added" Type: push_product_record
+2021-03-01 04:52:42--- INFO --- {"ID":3851,"post_author":"1","post_date":"2021-03-01 04:48:39","post_date_gmt":"2021-03-01 04:48:39","post_content":"","post_title":"New Product","post_excerpt":"","post_status":"publish","comment_status":"open","ping_status":"closed","post_password":"","post_name":"new-product","to_ping":"","pinged":"","post_modified":"2021-03-01 04:52:42","post_modified_gmt":"2021-03-01 04:52:42","post_content_filtered":"","post_parent":0,"guid":"https:\/\/adeptdrivers.samiscoding.com\/?post_type=product&#038;p=3851","menu_order":0,"post_type":"product","post_mime_type":"","comment_count":"0","filter":"raw"} Type: push_product_record
+2021-03-01 04:54:48--- INFO --- {} Type: push_product_record
+2021-03-01 04:54:48--- INFO --- {"Product_Name":"AUTO-DRAFT","Unit_Price":"","In_Car_Sessions":"","Has_LMS":"","Session_Duration_30_min_Intervals":""} Type: push_product_record
+2021-03-01 04:54:49--- INFO --- "record added" Type: push_product_record
+2021-03-01 04:54:58--- INFO --- {} Type: push_product_record
+2021-03-01 04:54:58--- INFO --- {"Product_Name":"Newest Product","Unit_Price":"","In_Car_Sessions":"","Has_LMS":"","Session_Duration_30_min_Intervals":""} Type: push_product_record
+2021-03-01 04:54:59--- INFO --- "record added" Type: push_product_record
+2021-03-01 04:55:07--- INFO --- {"ID":3852,"post_author":"1","post_date":"2021-03-01 04:55:07","post_date_gmt":"2021-03-01 04:55:07","post_content":"","post_title":"Newest Product","post_excerpt":"","post_status":"publish","comment_status":"open","ping_status":"closed","post_password":"","post_name":"newest-product","to_ping":"","pinged":"","post_modified":"2021-03-01 04:55:07","post_modified_gmt":"2021-03-01 04:55:07","post_content_filtered":"","post_parent":0,"guid":"https:\/\/adeptdrivers.samiscoding.com\/?post_type=product&#038;p=3852","menu_order":0,"post_type":"product","post_mime_type":"","comment_count":"0","filter":"raw"} Type: push_product_record
+2021-03-02 03:26:29--- INFO --- false Type: push_product_record
+2021-03-02 03:27:53--- INFO --- false Type: push_product_record
+2021-03-02 03:29:50--- ERROR --- false Type: product_sync
+2021-03-02 03:29:50--- INFO --- false Type: push_product_record
+2021-03-02 03:32:35--- ERROR --- {} Type: product_sync
+2021-03-02 03:32:35--- INFO --- {} Type: push_product_record
+2021-03-02 03:32:35--- INFO --- {"Product_Name":"Newest Product","Unit_Price":"","In_Car_Sessions":"","Has_LMS":"","Session_Duration_30_min_Intervals":""} Type: push_product_record
+2021-03-02 03:32:36--- INFO --- "record added" Type: push_product_record
+2021-03-02 03:36:39--- ERROR --- {} Type: product_sync
+2021-03-02 03:36:39--- INFO --- {} Type: push_product_record
+2021-03-02 03:36:39--- INFO --- {"Product_Name":"New Product","Unit_Price":"","In_Car_Sessions":"","Has_LMS":"","Session_Duration_30_min_Intervals":""} Type: push_product_record
+2021-03-02 03:36:39--- INFO --- "record added" Type: push_product_record
+2021-03-02 03:42:36--- ERROR --- {} Type: product_sync
+2021-03-02 03:42:36--- INFO --- {} Type: push_product_record
+2021-03-02 03:42:36--- INFO --- {"Product_Name":"Another product","Unit_Price":"500","In_Car_Sessions":"2","Has_LMS":"yes","Session_Duration_30_min_Intervals":"2"} Type: push_product_record
+2021-03-02 03:42:37--- INFO --- "invalid data" Type: push_product_record
+2021-03-02 03:48:07--- ERROR --- {} Type: product_sync
+2021-03-02 03:48:07--- INFO --- {} Type: push_product_record
+2021-03-02 03:48:07--- INFO --- {"Product_Name":"sample2 product","Unit_Price":"13","In_Car_Sessions":"4","Has_LMS":true,"Session_Duration_30_min_Intervals":"4"} Type: push_product_record
+2021-03-02 03:48:07--- INFO --- "record added" Type: push_product_record
+2021-03-03 02:16:24--- ERROR --- {} Type: product_sync
+2021-03-03 02:16:24--- INFO --- {} Type: push_product_record
+2021-03-03 02:16:24--- INFO --- {"Product_Name":"Refresher Course","Unit_Price":"500","In_Car_Sessions":"4","Has_LMS":true,"Session_Duration_30_min_Intervals":"3"} Type: push_product_record
+2021-03-03 02:16:25--- INFO --- "record added" Type: push_product_record
+2021-03-03 02:33:48--- INFO --- {"student_state":"Ontario","student_dob":"2021-03-25","student_g2el":"","studentid":"4179198000001288021","student_name":"Barrie Student","studentemail":"learndrivetest@gmail.com","student_product":"Refresher Course","student_phone":"4169638585","student_city":"Barrie","student_registration":"2021-03-02 18:33:47","student_address_1":"35 Cedar Pointe","student_cond":"","student_postal":"L4N 5R7","student_lcissue":"","student_license":""} Type: Webhook
+2021-03-03 02:40:35--- INFO --- {"student_state":"Ontario","student_dob":"2021-03-25","student_g2el":"","studentid":"4179198000001288021","student_name":"Barrie Student","studentemail":"learndrivetest@gmail.com","student_product":"Refresher Course","student_phone":"4169638582","student_city":"Barrie","student_registration":"2021-03-02 18:33:47","student_address_1":"35 Cedar Pointe","student_cond":"","student_postal":"L4N 5R7","student_lcissue":"","student_license":""} Type: Webhook
+2021-03-03 03:06:03--- INFO --- {"student_state":"Ontario","student_dob":"2021-03-25","student_g2el":"","studentid":"4179198000001288021","student_name":"Barrie Student","studentemail":"learndrivetest@gmail.com","student_product":"Refresher Course","student_phone":"4169638583","student_city":"Barrie","student_registration":"2021-03-02 18:33:47","student_address_1":"35 Cedar Pointe","student_cond":"","student_postal":"L4N 5R7","student_lcissue":"","student_license":""} Type: Webhook
+2021-03-03 04:08:51--- INFO --- {"student_state":"Ontario","student_dob":"2021-03-25","student_g2el":"","studentid":"4179198000001288021","student_name":"Barrie Student","studentemail":"learndrivetest@gmail.com","student_product":"Refresher Course","student_phone":"4169638583","student_city":"Barrie","student_registration":"2021-03-02 18:33:47","student_address_1":"35 Cedar Pointe","student_cond":"","student_postal":"L4N 5R7","student_lcissue":"","student_license":""} Type: Webhook
+2021-03-03 04:08:51--- INFO --- {"student_state":"Ontario","student_dob":"2021-03-25","student_g2el":"","studentid":"4179198000001288021","student_name":"Barrie Student","studentemail":"learndrivetest@gmail.com","student_product":"Refresher Course","student_phone":"4169638583","student_city":"Barrie","student_registration":"2021-03-02 18:33:47","student_address_1":"35 Cedar Pointe","student_cond":"","student_postal":"L4N 5R7","student_lcissue":"","student_license":""} Type: Webhook-Post data
+2021-03-03 04:13:10--- INFO --- {"student_state":"Ontario","student_dob":"2021-03-25","student_g2el":"","studentid":"4179198000001288021","student_name":"Barrie Student","studentemail":"learndrivetest@gmail.com","student_product":"Refresher Course","student_phone":"4169638585","student_city":"Barrie","student_registration":"2021-03-02 18:33:47","student_address_1":"35 Cedar Pointe","student_cond":"","student_postal":"L4N 5R7","student_lcissue":"","student_license":""} Type: Webhook
+2021-03-03 04:13:10--- INFO --- {"student_state":"Ontario","student_dob":"2021-03-25","student_g2el":"","studentid":"4179198000001288021","student_name":"Barrie Student","studentemail":"learndrivetest@gmail.com","student_product":"Refresher Course","student_phone":"4169638585","student_city":"Barrie","student_registration":"2021-03-02 18:33:47","student_address_1":"35 Cedar Pointe","student_cond":"","student_postal":"L4N 5R7","student_lcissue":"","student_license":""} Type: Webhook-Post data
+2021-03-03 04:16:58--- INFO --- {"student_state":"Ontario","Examination_Date":"2021-03-05","student_dob":"2021-03-25","student_g2el":"","studentid":"4179198000001288021","student_name":"Barrie Student","studentemail":"learndrivetest@gmail.com","student_product":"Refresher Course","student_phone":"4169638580","student_city":"Barrie","student_registration":"2021-03-02 18:33:47","student_address_1":"35 Cedar Pointe","student_cond":"","student_postal":"L4N 5R7","student_lcissue":"","student_license":""} Type: Webhook
+2021-03-03 04:16:58--- INFO --- {"student_state":"Ontario","Examination_Date":"2021-03-05","student_dob":"2021-03-25","student_g2el":"","studentid":"4179198000001288021","student_name":"Barrie Student","studentemail":"learndrivetest@gmail.com","student_product":"Refresher Course","student_phone":"4169638580","student_city":"Barrie","student_registration":"2021-03-02 18:33:47","student_address_1":"35 Cedar Pointe","student_cond":"","student_postal":"L4N 5R7","student_lcissue":"","student_license":""} Type: Webhook-Post data

@@ -1,0 +1,10 @@
+{
+    "require": {
+        "llagerlof/moodlerest": "2.3.0",
+        "mustache/mustache": "~2.5",
+        "zohocrm/php-sdk-archive": "^2.2"
+    },
+    "autoload": {
+        "classmap": ["logs/adept-drivers-logger.php", "includes/"]
+    }
+}

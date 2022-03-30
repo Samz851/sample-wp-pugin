@@ -1,0 +1,184 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+
+ * {
+  transition: all 0.1s ease-in;
+ }
+ .add-booking {
+  display: inline-block;
+}
+ .add-bookingdate {
+  display: inline-block;
+}
+.ad-booking-btn.col-md-2 {
+  text-align: center;
+  background: #f6f7fb;
+  display: block;
+  /* position: absolute; */
+  min-height: 100%;
+  font-size: 20px;
+  padding: 15px;
+  
+}
+.ad-booking-btn.col-md-2:hover {
+  background: #419DE6;
+}
+.ad-booking-btn.col-md-2:hover i {
+  color: #ffffff;
+}
+
+.ad-booking-btn a {
+  display: block;
+}
+
+div.add-bookingdate{
+  opacity: 0;
+  visibility: hidden;
+  color: white;
+  height: 0px;
+  overflow: hidden;
+}
+
+#date-picker > input {
+  color: black;
+  width: 180px;
+  text-align: center;
+  margin: 0px 10px;
+}
+input.apply-btn.sc_button_hover_roll_down {
+  padding: 5px !important;
+  border-radius: 0px !important;
+  border: none !important;
+}
+div.add-bookingdate.show{
+  opacity: 1;
+  visibility: visible;
+  margin: 0px;
+  background: #16449B;
+  padding: 10px;
+  height: 80px;
+  position: sticky;
+  left: 0px;
+  right: 0px;
+  display: block;
+}
+div.exam-input-container > * {
+  display: inline-block;
+}
+div.exam-input-container{
+  display: block !important;
+}
+input#exam-booking {
+  display: inline-block;
+}
+#date-picker > * {
+  display: inline;
+}
+button#submit-student-booking {
+    padding: 5px 20px;
+}
+div.ad-booking-calendar table {
+  width: 100%;
+}
+div.ad-booking-calendar table.wp-list-table thead tr td {
+  padding: 10px;
+  height: 50px;
+}
+
+div.inst-availability{
+  margin: 10px 0;
+  overflow-x: scroll;
+}
+div.inst-availability tbody tr {
+  border-top: 1px solid #ddd;
+}
+div.inst-availability tbody td {
+  padding: 5px !important;
+}
+td.time-slot {
+  border: 1px solid #ddd !important;
+  border-collapse: collapse;
+  max-width: 85px;
+  width: 85px;
+}
+td.time-slot.active{
+  cursor: pointer;
+}
+/* table#agent-availability {
+  margin-top: 60px;
+} */
+table#agent-availability tbody td {
+  font-size: 12px;
+}
+table#agent-availability > thead > tr > th:first-child {
+  min-width: 86px;
+}
+table#agent-availability > tbody > tr > td.row-date {
+  width: 86px;
+  height: 59px;
+  position: absolute;
+  border: 1px solid #ddd !important;
+}
+table#agent-availability > tbody > tr > td:not(.row-date) {
+  width: 64px;
+  height: 59px;
+}
+
+td.time-slot.active:hover {
+  background-color: #e6e6e7;
+}
+
+td.time-slot.active.block {
+  background-color: rgb(189, 82, 82);
+  cursor: default;
+}
+td.time-slot.active.selected {
+  background-color: rgb(82, 189, 82);
+}
+
+div.ad-booking-calendar table thead tr td {
+  background: #16449B;
+  color: white;
+  font-weight: 500;
+}
+
+.booking-confirmation {
+  display: inline-block;
+  padding: 5px;
+  border: 2px solid transparent;
+  font-size: 1.5rem;
+  margin: 5px;
+}
+
+.booking-confirmation.success{
+    border-color: rgb(1, 68, 1);
+}
+
+.booking-confirmation.fail{
+    border-color: #6b0101;
+}
+
+div.ad-dash-unit {
+  padding: 30px 40px;
+  background: #f2f2f2;
+  box-model: border-box;
+  border: 3px solid transparent;
+  background-clip:padding-box;
+}
+
+.ad-dash-unit.col-md-6 {
+  margin-bottom: 20px;
+}
+.ad-dash-unit.col-md-6 table {
+  min-width: 100%;
+}
+
+.woocommerce-page input.apply-btn.sc_button_hover_roll_down,input.apply-btn.sc_button_hover_roll_down {
+  max-width: 50px;
+  padding: 5px !important;
+}
+.add-booking.row {
+  width: 100%;
+}
